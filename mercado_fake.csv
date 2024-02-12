@@ -1,0 +1,1001 @@
+ID da Fatura,Filial,Cidade,Tipo de Cliente,Gênero,Linha de Produto,Preço Unitário,Quantidade,Imposto 5%,Total,Data,Hora,Pagamento,COGS,Margem Bruta %,Renda Bruta,Avaliação
+461145183,B,Moreira dos Dourados,Membro,Feminino,Alimentos e bebidas,82.07,4,16.414,344.694,2024-01-08,20:25,Cartão de crédito,275.76,5.933144,20.4512,6.4
+413738641,C,Ramos,Normal,Masculino,Eletrônicos,90.24,4,18.048,379.008,2024-01-16,22:37,Ewallet,303.21,4.447541,16.8565,7.5
+679545707,A,Cunha,Normal,Masculino,Esportes e viagens,26.38,6,7.914,166.194,2024-01-18,05:57,Ewallet,132.96,3.145817,5.2282,7.8
+104762123,C,da Paz,Membro,Masculino,Casa e estilo de vida,11.86,3,1.779,37.359,2024-01-21,05:33,Cartão de crédito,29.89,6.01398,2.2468,5.5
+803804735,B,Dias de Santos,Membro,Feminino,Eletrônicos,31.27,5,7.8175,164.1675,2024-01-24,05:02,Dinheiro,131.33,4.083387,6.7036,8.9
+669095678,A,Costela do Norte,Membro,Feminino,Saúde e beleza,41.18,1,2.059,43.239,2024-02-10,23:37,Ewallet,34.59,4.001541,1.7302,6.0
+362340912,C,das Neves de Cavalcanti,Membro,Feminino,Saúde e beleza,61.87,9,27.8415,584.6715,2024-01-13,19:01,Dinheiro,467.74,5.721627,33.4527,5.6
+54740541,B,Costa dos Dourados,Membro,Feminino,Saúde e beleza,94.65,2,9.465,198.765,2024-02-06,06:27,Dinheiro,159.01,7.052582,14.0181,5.8
+223860851,B,Araújo do Sul,Membro,Feminino,Saúde e beleza,19.67,5,4.9175,103.2675,2024-01-08,11:31,Dinheiro,82.61,5.365744,5.5411,6.3
+604755558,B,da Paz das Flores,Membro,Masculino,Saúde e beleza,63.69,3,9.5535,200.6235,2024-01-19,18:01,Cartão de crédito,160.5,5.970975,11.9792,7.2
+628432196,B,Souza da Prata,Membro,Feminino,Casa e estilo de vida,52.59,8,21.036,441.756,2024-01-15,23:22,Cartão de crédito,353.4,3.597159,15.8907,7.3
+860366448,A,Barros das Pedras,Normal,Feminino,Esportes e viagens,70.08,6,21.024,441.504,2024-01-02,07:07,Ewallet,353.2,4.510539,19.9142,8.9
+535695032,B,Nogueira de Rocha,Normal,Feminino,Eletrônicos,76.58,4,15.316,321.636,2024-01-11,11:18,Cartão de crédito,257.31,3.25461,10.468,4.1
+3129699,A,Moura do Campo,Normal,Masculino,Eletrônicos,73.39,4,14.678,308.238,2024-02-03,19:40,Cartão de crédito,246.59,3.497852,10.7817,4.8
+540935096,A,Fogaça,Normal,Feminino,Eletrônicos,90.42,8,36.168,759.528,2024-01-19,14:11,Dinheiro,607.62,3.371826,25.61,7.9
+785673758,C,da Mota Grande,Membro,Feminino,Casa e estilo de vida,59.16,3,8.874,186.354,2024-01-29,11:16,Cartão de crédito,149.08,4.449589,8.292,6.9
+77036447,C,Ferreira,Membro,Masculino,Casa e estilo de vida,20.07,9,9.0315,189.6615,2024-02-04,19:10,Cartão de crédito,151.73,3.571042,6.7729,5.5
+840462131,B,Caldeira Paulista,Normal,Feminino,Saúde e beleza,52.97,3,7.9455,166.8555,2024-01-31,20:46,Dinheiro,133.48,6.922156,11.55,7.5
+997094585,A,da Mota do Campo,Normal,Feminino,Alimentos e bebidas,43.17,4,8.634,181.314,2024-01-11,07:27,Cartão de crédito,145.05,4.383798,7.9484,4.4
+741961948,C,da Mota,Membro,Feminino,Alimentos e bebidas,47.34,10,23.67,497.07,2024-02-01,03:48,Cartão de crédito,397.66,3.143925,15.6275,7.3
+540213422,A,Nunes,Membro,Feminino,Alimentos e bebidas,21.35,2,2.135,44.835,2024-01-13,07:30,Cartão de crédito,35.87,6.431566,2.8836,4.2
+662415985,C,Rezende,Membro,Masculino,Alimentos e bebidas,86.95,8,34.78,730.38,2024-01-22,18:38,Dinheiro,584.3,7.307262,53.3708,8.6
+364963955,B,Rocha,Normal,Feminino,Esportes e viagens,17.13,5,4.2825,89.9325,2024-02-03,19:54,Cartão de crédito,71.95,4.443615,3.9963,6.0
+250029727,A,Fogaça,Membro,Feminino,Esportes e viagens,71.87,4,14.374,301.854,2024-01-23,22:30,Ewallet,241.48,6.03042,18.2031,8.0
+901033746,B,Nunes Paulista,Membro,Feminino,Alimentos e bebidas,41.38,9,18.621,391.041,2024-01-13,02:39,Dinheiro,312.83,4.211958,16.4705,8.3
+217449886,B,Moraes do Oeste,Normal,Masculino,Eletrônicos,13.38,1,0.669,14.049,2024-01-22,21:51,Ewallet,11.24,4.793505,0.6734,4.2
+873416304,C,Pereira,Normal,Feminino,Esportes e viagens,67.34,1,3.367,70.707,2024-02-09,18:01,Ewallet,56.57,4.507974,3.1875,5.4
+468252361,B,Moraes da Mata,Normal,Feminino,Eletrônicos,93.45,5,23.3625,490.6125,2024-01-22,01:34,Ewallet,392.49,4.800799,23.5533,7.6
+726624488,A,Rezende de Silveira,Normal,Feminino,Esportes e viagens,16.17,4,3.234,67.914,2024-02-04,13:56,Ewallet,54.33,7.156117,4.86,4.9
+603669651,C,Correia do Oeste,Normal,Masculino,Eletrônicos,27.65,6,8.295,174.195,2024-01-01,10:27,Ewallet,139.36,5.550146,9.6681,6.2
+35446754,C,Cunha da Mata,Normal,Masculino,Eletrônicos,55.66,2,5.566,116.886,2024-01-26,06:08,Cartão de crédito,93.51,3.879684,4.5348,7.6
+796457278,B,Aragão de Nogueira,Membro,Masculino,Casa e estilo de vida,84.19,8,33.676,707.196,2024-02-08,07:19,Ewallet,565.76,4.106818,29.0433,5.6
+783703427,C,Campos,Normal,Feminino,Saúde e beleza,54.08,4,10.816,227.136,2024-01-17,20:16,Dinheiro,181.71,5.362934,12.1812,5.5
+339096866,C,Gomes do Campo,Normal,Feminino,Casa e estilo de vida,12.36,6,3.708,77.868,2024-01-13,14:24,Dinheiro,62.29,7.569829,5.8945,8.8
+457445073,A,Nunes,Membro,Masculino,Saúde e beleza,67.66,6,20.298,426.258,2024-01-14,08:47,Cartão de crédito,341.01,7.32811,31.2367,4.1
+228884314,B,Almeida,Membro,Feminino,Eletrônicos,18.29,10,9.145,192.045,2024-02-09,12:38,Dinheiro,153.64,4.68057,8.9888,7.6
+228060490,A,Freitas,Membro,Masculino,Esportes e viagens,95.14,8,38.056,799.176,2024-01-25,20:31,Ewallet,639.34,3.592905,28.7136,7.9
+940636104,C,Duarte,Normal,Masculino,Alimentos e bebidas,75.94,9,34.173,717.633,2024-01-10,11:33,Dinheiro,574.11,6.549977,47.0048,5.2
+596847821,B,Gomes da Prata,Membro,Feminino,Casa e estilo de vida,77.74,5,19.435,408.135,2024-01-19,21:51,Dinheiro,326.51,6.49488,26.5079,8.2
+397184731,C,Farias da Mata,Normal,Masculino,Eletrônicos,67.7,7,23.695,497.595,2024-02-04,00:50,Ewallet,398.08,5.683273,28.2797,5.3
+247428171,A,da Mota do Oeste,Normal,Masculino,Casa e estilo de vida,96.68,9,43.506,913.626,2024-01-07,09:57,Dinheiro,730.9,5.03071,45.9619,5.1
+679801270,B,Pires da Mata,Normal,Feminino,Esportes e viagens,64.06,4,12.812,269.052,2024-02-09,06:16,Dinheiro,215.24,4.872342,13.1091,7.0
+53432435,B,Sales da Prata,Membro,Feminino,Eletrônicos,11.27,10,5.635,118.335,2024-01-30,09:06,Ewallet,94.67,6.580857,7.7875,7.5
+318261265,B,Rezende da Praia,Membro,Masculino,Esportes e viagens,11.31,9,5.0895,106.8795,2024-01-04,12:14,Dinheiro,85.5,5.557838,5.9402,7.4
+679781271,C,Teixeira da Praia,Membro,Feminino,Casa e estilo de vida,15.58,4,3.116,65.436,2024-01-28,17:15,Cartão de crédito,52.35,7.887762,5.1614,8.9
+303150335,B,Pereira,Membro,Feminino,Casa e estilo de vida,14.52,1,0.726,15.246,2024-01-04,17:55,Cartão de crédito,12.2,3.745853,0.5711,8.0
+221965389,A,Melo de Goiás,Normal,Feminino,Esportes e viagens,48.85,9,21.9825,461.6325,2024-01-09,19:50,Ewallet,369.31,6.91929,31.9417,8.2
+213119820,B,Caldeira,Normal,Feminino,Esportes e viagens,61.52,5,15.38,322.98,2024-01-30,00:44,Ewallet,258.38,7.207894,23.2801,7.0
+285153563,C,Correia,Normal,Feminino,Saúde e beleza,72.23,9,32.5035,682.5735,2024-01-11,00:34,Cartão de crédito,546.06,3.13509,21.3993,8.4
+303144981,C,da Luz Verde,Normal,Feminino,Esportes e viagens,41.48,7,14.518,304.878,2024-01-26,15:10,Dinheiro,243.9,3.387736,10.3285,5.3
+626710125,B,Oliveira do Campo,Normal,Masculino,Alimentos e bebidas,72.1,7,25.235,529.935,2024-01-10,00:47,Cartão de crédito,423.95,5.775426,30.606,5.6
+353068516,B,Dias de Dias,Membro,Masculino,Alimentos e bebidas,93.07,7,32.5745,684.0645,2024-02-05,19:30,Ewallet,547.25,4.998329,34.1918,6.2
+758060970,A,Pires,Normal,Feminino,Eletrônicos,39.88,1,1.994,41.874,2024-01-18,02:32,Ewallet,33.5,4.977681,2.0844,5.8
+192456370,B,Farias dos Dourados,Membro,Feminino,Eletrônicos,50.5,1,2.525,53.025,2024-02-04,11:28,Ewallet,42.42,3.129072,1.6592,4.7
+314102788,C,Aragão,Normal,Masculino,Esportes e viagens,44.59,9,20.0655,421.3755,2024-01-14,17:31,Cartão de crédito,337.1,5.458621,23.0013,8.1
+284670748,A,Melo,Normal,Masculino,Eletrônicos,50.78,7,17.773,373.233,2024-01-02,20:02,Ewallet,298.59,4.07004,15.1907,8.7
+249381770,C,Silva,Normal,Feminino,Casa e estilo de vida,44.15,10,22.075,463.575,2024-01-27,16:00,Cartão de crédito,370.86,4.105757,19.0333,6.4
+215121875,B,Carvalho,Normal,Feminino,Casa e estilo de vida,46.74,3,7.011,147.231,2024-02-09,14:13,Cartão de crédito,117.78,4.850838,7.1419,5.0
+214988715,C,Campos,Normal,Masculino,Eletrônicos,17.28,2,1.728,36.288,2024-01-24,04:56,Dinheiro,29.03,7.62485,2.7669,8.9
+153550318,B,Rodrigues do Galho,Normal,Feminino,Saúde e beleza,26.43,6,7.929,166.509,2024-01-09,13:15,Dinheiro,133.21,4.283666,7.1327,8.6
+122664195,A,Costa,Membro,Masculino,Casa e estilo de vida,20.25,7,7.0875,148.8375,2024-02-05,15:36,Ewallet,119.07,4.462415,6.6417,5.3
+273114931,B,da Cunha,Normal,Masculino,Alimentos e bebidas,85.1,6,25.53,536.13,2024-01-20,06:23,Cartão de crédito,428.9,4.989114,26.7481,5.3
+57408254,C,Cunha das Pedras,Membro,Feminino,Saúde e beleza,15.38,1,0.769,16.149,2024-01-03,02:35,Dinheiro,12.92,6.096464,0.9845,8.4
+530748863,B,Melo,Membro,Masculino,Eletrônicos,42.37,2,4.237,88.977,2024-01-25,22:55,Dinheiro,71.18,5.088857,4.5279,7.6
+479636984,C,Lima,Membro,Feminino,Alimentos e bebidas,98.14,10,49.07,1030.47,2024-01-03,16:17,Ewallet,824.38,6.747237,69.5283,7.7
+206627805,C,da Rosa,Membro,Masculino,Saúde e beleza,55.71,6,16.713,350.973,2024-02-07,11:02,Cartão de crédito,280.78,3.357492,11.7839,7.4
+185987984,C,Lima,Normal,Feminino,Esportes e viagens,51.17,6,15.351,322.371,2024-01-23,09:59,Ewallet,257.9,5.328836,17.1786,5.6
+590200064,C,Nunes,Normal,Feminino,Esportes e viagens,54.92,3,8.238,172.998,2024-02-08,10:11,Cartão de crédito,138.4,7.921352,13.7038,6.8
+421244093,B,Dias da Praia,Normal,Feminino,Eletrônicos,35.68,5,8.92,187.32,2024-02-05,03:18,Cartão de crédito,149.86,5.948126,11.142,5.2
+441132011,B,Jesus de Jesus,Membro,Masculino,Eletrônicos,72.27,3,10.8405,227.6505,2024-01-22,01:46,Cartão de crédito,182.12,3.613245,8.2256,4.8
+787188346,C,Vieira do Campo,Membro,Feminino,Esportes e viagens,85.0,6,25.5,535.5,2024-01-01,04:23,Dinheiro,428.4,3.625581,19.415,7.3
+468249542,B,da Cunha,Membro,Masculino,Esportes e viagens,19.57,8,7.828,164.388,2024-01-10,14:10,Dinheiro,131.51,3.295478,5.4174,8.4
+642747003,C,Nunes do Oeste,Normal,Feminino,Alimentos e bebidas,21.88,7,7.658,160.818,2024-02-02,20:39,Cartão de crédito,128.65,7.489036,12.0437,6.7
+637511793,B,Fogaça de da Mota,Membro,Masculino,Saúde e beleza,73.77,7,25.8195,542.2095,2024-01-26,02:32,Dinheiro,433.77,5.790306,31.3956,5.5
+977205537,C,Sales,Normal,Feminino,Alimentos e bebidas,87.52,7,30.632,643.272,2024-01-04,19:57,Cartão de crédito,514.62,7.525045,48.4065,8.9
+39396096,A,Monteiro,Normal,Feminino,Eletrônicos,95.93,9,43.1685,906.5385,2024-01-01,23:26,Cartão de crédito,725.23,3.07274,27.8556,6.7
+526999967,B,Ferreira Alegre,Normal,Feminino,Eletrônicos,91.33,6,27.399,575.379,2024-01-11,22:27,Ewallet,460.3,7.777862,44.7522,4.0
+319485819,B,Dias da Mata,Normal,Feminino,Esportes e viagens,58.65,3,8.7975,184.7475,2024-01-10,12:17,Ewallet,147.8,7.423529,13.7148,8.7
+668769029,C,Barros de Peixoto,Normal,Masculino,Casa e estilo de vida,97.35,4,19.47,408.87,2024-01-14,14:57,Dinheiro,327.1,4.276606,17.4858,7.8
+309989018,B,da Paz Grande,Normal,Feminino,Eletrônicos,33.33,4,6.666,139.986,2024-01-04,14:07,Cartão de crédito,111.99,7.946265,11.1237,6.9
+355441717,B,Barbosa,Normal,Masculino,Casa e estilo de vida,93.51,5,23.3775,490.9275,2024-01-10,10:44,Dinheiro,392.74,3.279968,16.1023,7.4
+671323306,C,Dias Paulista,Normal,Masculino,Casa e estilo de vida,93.63,5,23.4075,491.5575,2024-01-26,11:39,Cartão de crédito,393.25,3.147563,15.4721,6.9
+227027891,C,Cavalcanti,Normal,Masculino,Casa e estilo de vida,86.44,8,34.576,726.096,2024-01-26,00:19,Dinheiro,580.88,6.185656,44.9138,8.8
+733014221,C,Novaes,Membro,Masculino,Casa e estilo de vida,81.31,10,40.655,853.755,2024-02-09,05:10,Cartão de crédito,683.0,5.437156,46.42,5.6
+781037985,A,Lopes,Membro,Feminino,Esportes e viagens,18.93,5,4.7325,99.3825,2024-02-05,05:44,Dinheiro,79.51,3.808402,3.7849,7.4
+446899886,B,Moreira Alegre,Membro,Feminino,Eletrônicos,41.87,5,10.4675,219.8175,2024-01-04,09:56,Dinheiro,175.85,7.665842,16.8509,6.5
+172933966,C,Jesus de Silva,Normal,Feminino,Casa e estilo de vida,41.35,6,12.405,260.505,2024-01-21,21:28,Ewallet,208.4,3.69727,9.6316,7.2
+589335001,A,Moura,Membro,Feminino,Esportes e viagens,70.02,5,17.505,367.605,2024-01-26,19:17,Cartão de crédito,294.08,7.500546,27.5724,6.7
+922430228,C,Almeida da Mata,Membro,Feminino,Esportes e viagens,17.61,6,5.283,110.943,2024-01-08,06:24,Cartão de crédito,88.75,7.016281,7.7841,4.4
+908478434,C,Pereira da Mata,Normal,Masculino,Eletrônicos,35.33,4,7.066,148.386,2024-01-09,02:36,Ewallet,118.71,4.748781,7.0465,4.5
+637048831,A,Silva,Normal,Feminino,Saúde e beleza,88.93,2,8.893,186.753,2024-01-11,02:28,Dinheiro,149.4,5.503489,10.2779,7.0
+946294184,C,Teixeira do Norte,Normal,Masculino,Esportes e viagens,40.0,7,14.0,294.0,2024-01-07,11:04,Dinheiro,235.2,6.029111,17.7256,7.9
+984197884,C,Cunha,Normal,Feminino,Casa e estilo de vida,17.25,6,5.175,108.675,2024-01-15,06:00,Dinheiro,86.94,4.977113,5.4089,5.7
+252978703,A,Vieira de Santos,Membro,Feminino,Eletrônicos,29.48,9,13.266,278.586,2024-01-10,21:30,Ewallet,222.87,4.860916,13.5418,6.5
+614364080,C,Souza,Normal,Feminino,Alimentos e bebidas,77.67,10,38.835,815.535,2024-01-02,23:07,Ewallet,652.43,3.398073,27.7125,7.3
+490935082,B,Sales da Serra,Membro,Feminino,Eletrônicos,81.48,4,16.296,342.216,2024-01-23,07:37,Ewallet,273.77,6.361852,21.7713,7.1
+3471978,A,Souza do Amparo,Normal,Feminino,Eletrônicos,85.06,9,38.277,803.817,2024-01-11,21:50,Dinheiro,643.05,3.147544,25.3005,5.0
+370564368,C,Cunha da Mata,Membro,Feminino,Casa e estilo de vida,65.58,6,19.674,413.154,2024-01-31,07:52,Dinheiro,330.52,7.749281,32.0165,8.4
+604519792,A,Souza da Mata,Normal,Masculino,Saúde e beleza,20.97,5,5.2425,110.0925,2024-02-09,16:06,Ewallet,88.07,4.614077,5.0798,5.6
+445860618,B,Teixeira de Goiás,Membro,Masculino,Saúde e beleza,20.22,5,5.055,106.155,2024-02-06,21:45,Cartão de crédito,84.92,4.660003,4.9468,8.9
+762726775,B,Gomes,Normal,Masculino,Casa e estilo de vida,27.79,5,6.9475,145.8975,2024-01-11,16:34,Dinheiro,116.72,3.411956,4.978,6.4
+970863937,A,Nascimento de Duarte,Membro,Masculino,Alimentos e bebidas,85.18,7,29.813,626.073,2024-01-30,04:12,Cartão de crédito,500.86,7.516771,47.0605,6.1
+179408013,B,Cardoso,Normal,Masculino,Alimentos e bebidas,26.76,8,10.704,224.784,2024-01-26,13:11,Ewallet,179.83,3.163074,7.1101,7.3
+326706827,C,da Rosa,Membro,Feminino,Alimentos e bebidas,65.83,10,32.915,691.215,2024-02-03,02:10,Ewallet,552.97,6.312473,43.6328,6.3
+554118858,C,Porto,Normal,Masculino,Eletrônicos,54.4,2,5.44,114.24,2024-01-15,21:53,Dinheiro,91.39,4.901204,5.5991,5.2
+991695329,A,Ferreira dos Dourados,Normal,Feminino,Eletrônicos,90.49,4,18.098,380.058,2024-01-25,08:09,Cartão de crédito,304.05,7.654072,29.0899,5.3
+19449197,B,Dias de Silva,Membro,Feminino,Eletrônicos,14.67,9,6.6015,138.6315,2024-01-05,04:51,Cartão de crédito,110.91,3.205163,4.4434,5.5
+279664872,A,Mendes de Minas,Normal,Feminino,Eletrônicos,40.82,8,16.328,342.888,2024-01-16,15:34,Dinheiro,274.31,6.131375,21.0237,8.5
+390895636,A,da Mota,Normal,Feminino,Eletrônicos,59.17,4,11.834,248.514,2024-01-18,11:14,Ewallet,198.81,4.206325,10.4533,4.3
+809065140,A,da Luz,Membro,Feminino,Eletrônicos,47.09,6,14.127,296.667,2024-01-31,06:41,Cartão de crédito,237.33,5.422213,16.0859,5.1
+807984757,B,da Rocha do Galho,Normal,Masculino,Casa e estilo de vida,32.72,3,4.908,103.068,2024-01-04,01:17,Dinheiro,82.45,7.921663,8.1647,5.4
+294013709,B,da Rocha,Membro,Feminino,Alimentos e bebidas,52.84,7,18.494,388.374,2024-01-12,23:54,Cartão de crédito,310.7,6.683369,25.9565,6.2
+90242065,A,Moraes de Moreira,Membro,Masculino,Eletrônicos,89.37,7,31.2795,656.8695,2024-01-05,22:30,Cartão de crédito,525.5,6.019993,39.5435,7.4
+278920384,C,Mendes,Normal,Masculino,Eletrônicos,81.66,7,28.581,600.201,2024-01-27,19:41,Dinheiro,480.16,4.457096,26.7515,4.4
+777975819,B,Melo,Normal,Masculino,Eletrônicos,91.69,8,36.676,770.196,2024-01-29,11:05,Ewallet,616.16,7.340079,56.533,6.0
+917372299,C,da Cruz,Normal,Feminino,Saúde e beleza,45.23,2,4.523,94.983,2024-01-02,15:40,Dinheiro,75.99,6.378377,6.0584,5.7
+188340560,C,Ferreira,Normal,Masculino,Casa e estilo de vida,73.08,3,10.962,230.202,2024-01-27,05:03,Cartão de crédito,184.16,6.811794,15.6809,6.4
+847351666,B,Costela,Membro,Masculino,Casa e estilo de vida,39.76,8,15.904,333.984,2024-01-13,18:54,Cartão de crédito,267.19,5.533768,18.4819,8.3
+342960822,C,Araújo,Membro,Feminino,Alimentos e bebidas,81.61,10,40.805,856.905,2024-02-08,02:27,Cartão de crédito,685.52,5.163914,44.2498,6.8
+336201106,A,Dias das Flores,Membro,Feminino,Esportes e viagens,60.42,6,18.126,380.646,2024-01-17,21:42,Dinheiro,304.52,4.714616,17.946,5.4
+983791938,C,Moraes das Flores,Membro,Feminino,Alimentos e bebidas,16.32,6,4.896,102.816,2024-01-22,03:54,Dinheiro,82.25,6.91385,7.1085,7.1
+2399678,B,Nogueira do Campo,Membro,Feminino,Eletrônicos,92.21,4,18.442,387.282,2024-01-21,05:16,Dinheiro,309.83,6.071462,23.5137,7.6
+889779209,A,Pereira das Flores,Membro,Feminino,Casa e estilo de vida,36.89,1,1.8445,38.7345,2024-01-31,23:01,Ewallet,30.99,6.172187,2.3908,8.2
+563788265,C,Costa,Membro,Feminino,Casa e estilo de vida,26.2,4,5.24,110.04,2024-02-03,01:29,Ewallet,88.03,6.595144,7.2573,8.0
+239857007,A,da Rocha de Pereira,Normal,Masculino,Esportes e viagens,82.37,3,12.3555,259.4655,2024-01-16,16:25,Ewallet,207.57,4.483431,11.633,8.9
+623957609,B,Nunes,Normal,Masculino,Eletrônicos,53.75,10,26.875,564.375,2024-01-16,01:08,Ewallet,451.5,5.239027,29.5678,5.5
+820871008,C,Souza,Membro,Masculino,Esportes e viagens,58.42,8,23.368,490.728,2024-01-26,15:48,Dinheiro,392.58,4.387567,21.531,4.4
+692753592,A,Mendes de Santos,Normal,Feminino,Casa e estilo de vida,58.02,9,26.109,548.289,2024-02-07,02:40,Cartão de crédito,438.63,6.003586,32.917,6.8
+715441589,B,Silveira,Membro,Feminino,Casa e estilo de vida,57.17,5,14.2925,300.1425,2024-02-01,00:08,Ewallet,240.11,4.663873,13.9983,6.1
+846417038,C,Sales das Pedras,Membro,Masculino,Casa e estilo de vida,52.13,2,5.213,109.473,2024-01-04,21:48,Ewallet,87.58,7.190855,7.872,4.6
+161298955,C,Vieira,Membro,Masculino,Alimentos e bebidas,59.1,7,20.685,434.385,2024-02-01,00:04,Dinheiro,347.51,7.929764,34.4457,7.5
+105556945,B,Rezende do Oeste,Normal,Masculino,Alimentos e bebidas,88.54,7,30.989,650.769,2024-02-02,02:24,Dinheiro,520.62,4.815953,31.3407,6.4
+383169950,C,Silva de Fogaça,Normal,Masculino,Casa e estilo de vida,35.44,5,8.86,186.06,2024-01-03,08:00,Dinheiro,148.85,7.370803,13.7141,4.1
+545988931,B,Lima de Jesus,Normal,Feminino,Alimentos e bebidas,19.31,3,2.8965,60.8265,2024-01-02,15:13,Ewallet,48.66,6.847206,4.1649,7.0
+566849403,B,Costela do Galho,Normal,Masculino,Saúde e beleza,65.34,4,13.068,274.428,2024-01-20,19:36,Cartão de crédito,219.54,5.548307,15.2261,5.7
+205870106,B,Nogueira,Membro,Masculino,Eletrônicos,43.23,8,17.292,363.132,2024-01-24,19:00,Ewallet,290.51,4.994041,18.135,8.4
+104723257,B,Oliveira,Membro,Masculino,Alimentos e bebidas,53.64,8,21.456,450.576,2024-01-24,00:48,Cartão de crédito,360.46,4.815307,21.6966,8.4
+167993928,C,Farias das Pedras,Normal,Masculino,Alimentos e bebidas,98.52,1,4.926,103.446,2024-01-08,21:06,Cartão de crédito,82.76,7.62572,7.8885,6.9
+750791191,B,Santos de da Mata,Normal,Feminino,Casa e estilo de vida,72.18,5,18.045,378.945,2024-02-06,10:08,Ewallet,303.16,5.755841,21.8115,5.3
+247621790,A,Moura,Membro,Feminino,Saúde e beleza,55.91,1,2.7955,58.7055,2024-01-25,02:39,Ewallet,46.96,6.017893,3.5328,6.9
+369092613,C,Dias,Membro,Masculino,Saúde e beleza,33.77,3,5.0655,106.3755,2024-01-10,17:13,Dinheiro,85.1,6.698111,7.1251,5.4
+206794551,A,Moura,Normal,Feminino,Casa e estilo de vida,12.35,6,3.705,77.805,2024-01-05,19:11,Dinheiro,62.24,3.829584,2.9796,5.5
+810026692,C,Barros das Flores,Membro,Feminino,Saúde e beleza,63.23,7,22.1305,464.7405,2024-01-15,23:42,Ewallet,371.79,3.34282,15.5354,8.4
+398473183,B,Moura de Nascimento,Membro,Feminino,Esportes e viagens,63.7,6,19.11,401.31,2024-01-02,15:14,Ewallet,321.05,5.096941,20.4545,7.7
+784520351,A,Ribeiro da Serra,Normal,Feminino,Esportes e viagens,95.15,8,38.06,799.26,2024-02-06,09:08,Dinheiro,639.41,3.254677,26.0133,8.6
+569011300,C,Farias do Amparo,Normal,Feminino,Saúde e beleza,12.56,7,4.396,92.316,2024-01-19,08:53,Dinheiro,73.85,4.957101,4.5762,8.1
+647868552,A,da Cruz de da Costa,Membro,Feminino,Casa e estilo de vida,66.48,8,26.592,558.432,2024-01-07,04:28,Ewallet,446.75,7.907821,44.1598,8.0
+956907819,B,Nunes de Goiás,Normal,Masculino,Eletrônicos,98.47,10,49.235,1033.935,2024-02-01,01:01,Cartão de crédito,827.15,3.603698,37.2599,5.7
+922573910,B,Mendes dos Dourados,Normal,Feminino,Esportes e viagens,81.65,5,20.4125,428.6625,2024-01-24,11:46,Dinheiro,342.93,7.467356,32.0098,7.6
+598519618,B,Ramos da Prata,Membro,Feminino,Casa e estilo de vida,55.01,10,27.505,577.605,2024-01-23,06:26,Ewallet,462.08,3.859385,22.292,8.5
+353064378,C,Pires,Normal,Masculino,Casa e estilo de vida,31.59,4,6.318,132.678,2024-01-18,14:30,Ewallet,106.14,3.762559,4.9921,4.2
+712657557,A,da Rosa do Sul,Normal,Masculino,Esportes e viagens,82.49,7,28.8715,606.3015,2024-01-19,09:44,Dinheiro,485.04,4.705495,28.5295,7.2
+802974957,A,Lima,Membro,Masculino,Saúde e beleza,66.77,5,16.6925,350.5425,2024-01-09,00:52,Ewallet,280.43,7.887615,27.6494,5.3
+259583351,A,Mendes,Normal,Masculino,Casa e estilo de vida,66.19,8,26.476,555.996,2024-01-17,02:36,Dinheiro,444.8,6.432418,35.764,6.0
+910815121,A,da Mota do Galho,Normal,Masculino,Alimentos e bebidas,29.96,6,8.988,188.748,2024-01-23,05:35,Ewallet,151.0,6.06744,11.4522,6.7
+44492786,B,da Rocha,Membro,Feminino,Saúde e beleza,49.19,2,4.919,103.299,2024-01-03,17:46,Cartão de crédito,82.64,7.909609,8.1705,4.3
+135713777,B,Costa,Normal,Masculino,Eletrônicos,83.69,4,16.738,351.498,2024-01-11,04:52,Dinheiro,281.2,6.216956,21.8525,8.0
+433814863,B,Costela,Membro,Masculino,Saúde e beleza,78.0,10,39.0,819.0,2024-01-19,10:52,Dinheiro,655.2,3.638205,29.7969,4.8
+510376705,C,Pinto de da Cruz,Normal,Masculino,Casa e estilo de vida,54.08,3,8.112,170.352,2024-01-01,05:09,Dinheiro,136.28,3.485736,5.938,5.8
+635941343,C,Costela do Amparo,Membro,Feminino,Esportes e viagens,80.77,3,12.1155,254.4255,2024-01-09,18:12,Cartão de crédito,203.54,6.04118,15.3703,8.2
+853172538,B,Nascimento,Normal,Feminino,Esportes e viagens,22.48,5,5.62,118.02,2024-02-04,10:30,Ewallet,94.42,5.234573,6.1778,4.3
+162210497,A,Nascimento Paulista,Membro,Masculino,Casa e estilo de vida,70.8,9,31.86,669.06,2024-02-03,14:15,Ewallet,535.25,5.842414,39.0893,4.3
+63058959,A,da Rocha dos Dourados,Membro,Feminino,Saúde e beleza,87.3,8,34.92,733.32,2024-01-06,09:45,Cartão de crédito,586.66,5.718698,41.9364,8.4
+384399204,A,da Costa da Serra,Normal,Masculino,Alimentos e bebidas,90.61,8,36.244,761.124,2024-01-02,08:47,Cartão de crédito,608.9,3.044031,23.1689,8.7
+442788673,C,Farias do Oeste,Membro,Masculino,Casa e estilo de vida,39.98,5,9.995,209.895,2024-01-28,13:15,Ewallet,167.92,4.113625,8.6343,7.7
+606126505,C,Cardoso da Prata,Normal,Feminino,Alimentos e bebidas,20.52,6,6.156,129.276,2024-01-06,14:27,Cartão de crédito,103.42,7.725543,9.9873,4.3
+449768791,B,Campos,Normal,Masculino,Saúde e beleza,30.27,9,13.6215,286.0515,2024-01-20,13:13,Dinheiro,228.84,7.281358,20.8284,7.9
+418043582,B,Rodrigues,Membro,Feminino,Esportes e viagens,39.01,4,7.802,163.842,2024-02-06,15:59,Cartão de crédito,131.07,7.282515,11.9318,4.6
+894217387,A,Viana de Nogueira,Membro,Feminino,Eletrônicos,80.49,8,32.196,676.116,2024-02-09,10:49,Cartão de crédito,540.89,3.430049,23.1911,6.3
+404808937,B,Peixoto,Normal,Feminino,Saúde e beleza,36.11,5,9.0275,189.5775,2024-02-01,12:12,Cartão de crédito,151.66,5.716761,10.8377,7.8
+632047076,A,da Cruz,Normal,Masculino,Casa e estilo de vida,16.42,9,7.389,155.169,2024-02-09,23:01,Dinheiro,124.14,4.341393,6.7365,5.1
+682793774,B,Ramos de Pires,Membro,Masculino,Esportes e viagens,99.37,6,29.811,626.031,2024-02-07,20:41,Cartão de crédito,500.82,4.783561,29.9466,8.0
+884470898,A,Ferreira de Gomes,Normal,Masculino,Alimentos e bebidas,11.39,9,5.1255,107.6355,2024-01-04,06:23,Cartão de crédito,86.11,3.027563,3.2587,5.3
+431304344,C,Pinto de da Conceição,Membro,Masculino,Saúde e beleza,66.05,4,13.21,277.41,2024-01-16,07:38,Ewallet,221.93,3.126371,8.6729,6.7
+306807315,A,Almeida,Normal,Feminino,Eletrônicos,43.98,1,2.199,46.179,2024-01-15,23:58,Dinheiro,36.94,5.599036,2.5856,6.5
+578829621,B,Lopes da Prata,Normal,Feminino,Eletrônicos,68.7,4,13.74,288.54,2024-02-10,04:28,Cartão de crédito,230.83,6.291684,18.154,4.3
+871101030,C,Santos,Normal,Feminino,Casa e estilo de vida,26.46,8,10.584,222.264,2024-01-28,17:18,Ewallet,177.81,5.300524,11.7812,8.6
+996319920,B,Castro de Goiás,Normal,Feminino,Alimentos e bebidas,91.35,3,13.7025,287.7525,2024-02-05,06:28,Dinheiro,230.2,6.532707,18.798,5.3
+669497015,B,Caldeira,Membro,Feminino,Casa e estilo de vida,42.12,9,18.954,398.034,2024-01-16,15:28,Ewallet,318.43,5.090832,20.2632,7.6
+153016485,B,Duarte das Flores,Normal,Feminino,Eletrônicos,63.79,4,12.758,267.918,2024-01-27,22:54,Cartão de crédito,214.33,4.273837,11.4504,6.3
+390091078,C,Viana de Vieira,Normal,Masculino,Eletrônicos,15.68,5,3.92,82.32,2024-01-09,10:58,Cartão de crédito,65.86,3.652043,3.0064,4.0
+917430293,B,Fogaça Verde,Normal,Feminino,Esportes e viagens,79.36,8,31.744,666.624,2024-01-02,07:17,Ewallet,533.3,4.133916,27.5577,8.7
+523390458,B,Melo,Membro,Feminino,Alimentos e bebidas,56.66,2,5.666,118.986,2024-02-10,16:09,Ewallet,95.19,4.613116,5.489,6.1
+152463053,C,Silveira Verde,Membro,Masculino,Casa e estilo de vida,53.57,8,21.428,449.988,2024-01-06,04:41,Ewallet,359.99,3.929202,17.6809,5.5
+406871364,C,Campos,Membro,Feminino,Casa e estilo de vida,33.54,9,15.093,316.953,2024-01-27,08:27,Cartão de crédito,253.56,4.324624,13.707,8.2
+958655388,C,Fernandes Grande,Normal,Feminino,Saúde e beleza,11.05,9,4.9725,104.4225,2024-01-18,12:58,Dinheiro,83.54,7.492782,7.8242,6.5
+634479128,A,Teixeira,Normal,Feminino,Eletrônicos,39.06,10,19.53,410.13,2024-01-29,21:30,Dinheiro,328.1,4.028234,16.521,7.8
+106133677,B,da Paz do Campo,Membro,Masculino,Eletrônicos,82.34,7,28.819,605.199,2024-01-18,22:53,Cartão de crédito,484.16,7.824336,47.3528,6.0
+550191498,B,Gomes,Membro,Feminino,Esportes e viagens,97.61,3,14.6415,307.4715,2024-01-13,06:48,Cartão de crédito,245.98,3.746073,11.5181,8.1
+16809502,B,da Rosa de Minas,Membro,Feminino,Casa e estilo de vida,45.19,1,2.2595,47.4495,2024-02-04,11:37,Ewallet,37.96,5.926908,2.8123,5.4
+886827786,A,Peixoto,Membro,Feminino,Casa e estilo de vida,46.18,1,2.309,48.489,2024-01-15,00:36,Cartão de crédito,38.79,3.178879,1.5414,8.7
+217111734,B,Oliveira de Azevedo,Membro,Feminino,Esportes e viagens,56.39,8,22.556,473.676,2024-01-19,21:23,Ewallet,378.94,4.513881,21.3812,4.0
+633141383,C,Lopes de Peixoto,Membro,Masculino,Saúde e beleza,97.76,4,19.552,410.592,2024-02-02,18:20,Cartão de crédito,328.47,3.142523,12.9029,8.2
+961348420,C,Pereira de Minas,Normal,Feminino,Saúde e beleza,16.48,6,4.944,103.824,2024-01-26,12:14,Dinheiro,83.06,7.890597,8.1923,4.4
+720075098,A,da Rosa,Normal,Masculino,Saúde e beleza,72.8,3,10.92,229.32,2024-01-17,00:00,Ewallet,183.46,4.162147,9.5446,8.7
+648286173,C,Vieira da Praia,Normal,Feminino,Casa e estilo de vida,59.72,6,17.916,376.236,2024-01-27,17:45,Ewallet,300.99,5.263501,19.8032,7.5
+534178568,C,Pereira das Flores,Membro,Masculino,Saúde e beleza,84.0,1,4.2,88.2,2024-01-20,05:18,Ewallet,70.56,6.86869,6.0582,4.0
+896379638,A,Ramos,Normal,Feminino,Eletrônicos,23.88,8,9.552,200.592,2024-01-31,03:53,Cartão de crédito,160.47,3.372908,6.7658,7.1
+391057963,C,Duarte de Goiás,Normal,Feminino,Esportes e viagens,24.83,8,9.932,208.572,2024-02-01,07:44,Ewallet,166.86,3.919696,8.1754,5.5
+893891787,C,Pires,Normal,Feminino,Alimentos e bebidas,20.59,2,2.059,43.239,2024-01-12,00:41,Ewallet,34.59,3.791952,1.6396,6.1
+199735363,A,Oliveira,Normal,Feminino,Eletrônicos,99.73,8,39.892,837.732,2024-01-08,15:43,Dinheiro,670.19,4.938928,41.375,4.1
+673855265,C,Carvalho,Membro,Feminino,Saúde e beleza,89.9,7,31.465,660.765,2024-02-05,19:27,Ewallet,528.61,3.194288,21.1067,8.7
+723631232,A,da Costa da Serra,Membro,Feminino,Casa e estilo de vida,93.64,9,42.138,884.898,2024-01-07,15:47,Ewallet,707.92,3.264985,28.8918,6.8
+970221192,C,Cavalcanti dos Dourados,Membro,Masculino,Alimentos e bebidas,98.19,2,9.819,206.199,2024-01-04,02:41,Dinheiro,164.96,5.451873,11.2417,8.7
+723473839,C,Cavalcanti,Membro,Feminino,Saúde e beleza,53.61,7,18.7635,394.0335,2024-01-23,12:27,Dinheiro,315.23,3.429813,13.5146,7.2
+472268393,C,Araújo,Normal,Feminino,Esportes e viagens,88.75,8,35.5,745.5,2024-01-28,07:32,Cartão de crédito,596.4,5.950188,44.3587,7.1
+576193726,C,Vieira de Goiás,Membro,Feminino,Eletrônicos,93.18,9,41.931,880.551,2024-02-07,15:57,Dinheiro,704.44,6.883496,60.6127,7.6
+277262084,C,Monteiro Paulista,Membro,Masculino,Saúde e beleza,54.24,9,24.408,512.568,2024-01-26,14:33,Ewallet,410.05,5.070693,25.9907,6.4
+620549888,C,Almeida do Sul,Membro,Feminino,Casa e estilo de vida,17.1,9,7.695,161.595,2024-01-13,01:33,Cartão de crédito,129.28,6.798781,10.9865,6.0
+786373231,C,Porto,Membro,Feminino,Casa e estilo de vida,34.98,8,13.992,293.832,2024-01-10,05:15,Dinheiro,235.07,4.792888,14.083,4.3
+357517202,B,Silveira do Galho,Membro,Masculino,Eletrônicos,79.95,9,35.9775,755.5275,2024-01-05,05:02,Dinheiro,604.42,5.792344,43.7628,7.7
+567560017,B,Dias,Membro,Masculino,Alimentos e bebidas,66.26,2,6.626,139.146,2024-01-09,10:47,Ewallet,111.32,3.525351,4.9054,8.1
+575057084,C,Almeida,Normal,Feminino,Esportes e viagens,90.17,5,22.5425,473.3925,2024-01-26,23:03,Cartão de crédito,378.71,4.738756,22.4329,4.9
+637443020,A,Peixoto,Membro,Feminino,Esportes e viagens,46.25,6,13.875,291.375,2024-01-25,11:32,Cartão de crédito,233.1,7.171903,20.8971,7.9
+135967292,C,Ferreira,Membro,Masculino,Saúde e beleza,54.16,6,16.248,341.208,2024-01-06,20:47,Ewallet,272.97,5.524974,18.8517,8.7
+632629127,A,Barbosa,Membro,Masculino,Alimentos e bebidas,98.23,10,49.115,1031.415,2024-01-16,05:56,Dinheiro,825.13,4.021734,41.4808,7.5
+690708676,A,Cunha,Membro,Masculino,Casa e estilo de vida,89.61,7,31.3635,658.6335,2024-01-04,18:49,Cartão de crédito,526.91,6.845326,45.0856,8.7
+889019273,A,Azevedo,Membro,Masculino,Casa e estilo de vida,76.68,3,11.502,241.542,2024-02-02,20:27,Cartão de crédito,193.23,4.683978,11.3138,7.4
+663470019,C,Santos,Membro,Masculino,Alimentos e bebidas,45.07,10,22.535,473.235,2024-01-22,09:51,Cartão de crédito,378.59,7.361594,34.8376,8.6
+9622160,C,Silva de Lopes,Normal,Masculino,Casa e estilo de vida,12.3,2,1.23,25.83,2024-01-27,13:22,Dinheiro,20.66,6.730971,1.7386,4.1
+255461905,A,Teixeira da Praia,Normal,Masculino,Esportes e viagens,64.95,1,3.2475,68.1975,2024-01-06,05:11,Ewallet,54.56,5.758569,3.9272,7.3
+854751358,B,Freitas Alegre,Membro,Masculino,Casa e estilo de vida,39.11,6,11.733,246.393,2024-02-05,18:53,Cartão de crédito,197.11,5.321668,13.1122,8.7
+44487284,B,Silva do Oeste,Normal,Feminino,Casa e estilo de vida,64.16,8,25.664,538.944,2024-02-01,00:22,Ewallet,431.16,4.187601,22.5688,9.0
+12193101,C,Nunes,Normal,Masculino,Eletrônicos,14.98,5,3.745,78.645,2024-01-16,03:47,Dinheiro,62.92,7.081344,5.5691,8.6
+373801342,B,Pires,Membro,Feminino,Eletrônicos,44.86,1,2.243,47.103,2024-01-20,00:41,Dinheiro,37.68,7.004066,3.2991,8.1
+432472826,A,Campos Grande,Membro,Masculino,Esportes e viagens,25.24,2,2.524,53.004,2024-02-09,12:27,Ewallet,42.4,7.971615,4.2253,7.8
+514680703,C,Cavalcanti do Oeste,Membro,Masculino,Casa e estilo de vida,84.83,8,33.932,712.572,2024-01-26,09:21,Cartão de crédito,570.06,3.072586,21.8944,4.9
+606006314,A,Gonçalves,Membro,Feminino,Alimentos e bebidas,97.06,10,48.53,1019.13,2024-01-17,15:01,Dinheiro,815.3,6.897954,70.2991,8.0
+980517547,B,Farias da Prata,Membro,Masculino,Saúde e beleza,18.87,6,5.661,118.881,2024-02-05,16:11,Ewallet,95.1,3.982291,4.7342,5.9
+39147416,C,da Rosa,Membro,Feminino,Eletrônicos,96.62,10,48.31,1014.51,2024-01-28,00:51,Cartão de crédito,811.61,4.318143,43.808,4.8
+547625772,B,Mendes,Membro,Masculino,Saúde e beleza,78.84,2,7.884,165.564,2024-01-12,03:18,Dinheiro,132.45,5.734685,9.4946,6.1
+752712533,C,Costela,Membro,Feminino,Alimentos e bebidas,97.58,10,48.79,1024.59,2024-01-18,03:44,Cartão de crédito,819.67,7.715332,79.0505,7.3
+108668808,B,Monteiro de Minas,Membro,Masculino,Saúde e beleza,67.67,5,16.9175,355.2675,2024-02-07,05:24,Cartão de crédito,284.21,6.704272,23.8181,8.9
+484627449,A,Dias,Normal,Masculino,Esportes e viagens,77.16,10,38.58,810.18,2024-01-23,09:42,Ewallet,648.14,6.959876,56.3875,5.1
+88323349,C,Fogaça de Goiás,Membro,Feminino,Saúde e beleza,79.65,10,39.825,836.325,2024-02-08,04:39,Cartão de crédito,669.06,7.261407,60.729,6.1
+317031759,A,da Rosa de Barros,Normal,Masculino,Eletrônicos,57.09,7,19.9815,419.6115,2024-02-04,11:39,Cartão de crédito,335.69,4.686291,19.6642,7.3
+964950574,B,da Cruz do Oeste,Normal,Masculino,Esportes e viagens,35.91,7,12.5685,263.9385,2024-01-30,06:53,Ewallet,211.15,7.636349,20.1553,5.5
+353900546,C,da Cruz das Flores,Membro,Masculino,Eletrônicos,93.56,2,9.356,196.476,2024-01-28,23:37,Dinheiro,157.18,3.628603,7.1293,6.7
+178869191,A,Costela,Normal,Feminino,Saúde e beleza,64.46,3,9.669,203.049,2024-01-10,08:53,Dinheiro,162.44,6.849449,13.9077,6.9
+312168438,B,Lopes,Normal,Masculino,Alimentos e bebidas,34.93,4,6.986,146.706,2024-01-08,00:24,Dinheiro,117.36,6.140023,9.0078,4.7
+448484054,A,da Luz,Normal,Masculino,Eletrônicos,43.72,10,21.86,459.06,2024-02-01,15:25,Dinheiro,367.25,7.335765,33.6756,7.9
+546916270,C,Fernandes,Membro,Masculino,Esportes e viagens,69.87,4,13.974,293.454,2024-01-29,14:24,Ewallet,234.76,7.138007,20.9468,5.6
+912115406,B,da Costa Grande,Normal,Masculino,Alimentos e bebidas,61.85,1,3.0925,64.9425,2024-02-06,14:08,Dinheiro,51.95,7.582302,4.9241,5.4
+900783627,B,Porto,Membro,Masculino,Esportes e viagens,15.37,3,2.3055,48.4155,2024-01-14,07:03,Dinheiro,38.73,6.47467,3.1347,7.1
+297540944,C,Farias,Normal,Feminino,Eletrônicos,12.41,4,2.482,52.122,2024-02-05,04:47,Cartão de crédito,41.7,7.001636,3.6494,8.6
+804659283,C,Moraes,Normal,Feminino,Casa e estilo de vida,98.44,10,49.22,1033.62,2024-01-18,16:44,Dinheiro,826.9,7.062064,72.9949,5.3
+578170705,A,Pires,Normal,Masculino,Eletrônicos,50.33,3,7.5495,158.5395,2024-01-24,03:40,Cartão de crédito,126.83,4.07379,6.4586,5.6
+290712597,A,Ramos,Membro,Masculino,Saúde e beleza,68.99,8,27.596,579.516,2024-02-08,04:26,Dinheiro,463.61,4.958813,28.7371,4.5
+19560020,C,Ramos,Normal,Feminino,Eletrônicos,67.58,5,16.895,354.795,2024-01-09,23:06,Cartão de crédito,283.84,7.613686,27.013,7.4
+804824462,C,Cardoso de Lima,Normal,Masculino,Eletrônicos,53.4,1,2.67,56.07,2024-01-06,11:40,Dinheiro,44.86,6.3964,3.5865,4.4
+964861388,A,da Mota das Pedras,Normal,Masculino,Esportes e viagens,84.64,2,8.464,177.744,2024-02-06,03:51,Dinheiro,142.2,4.506741,8.0105,4.9
+577365074,C,Dias da Mata,Membro,Masculino,Esportes e viagens,34.51,10,17.255,362.355,2024-02-05,11:11,Cartão de crédito,289.88,5.683867,20.5958,6.9
+769819710,A,Duarte,Membro,Feminino,Saúde e beleza,28.5,4,5.7,119.7,2024-01-14,17:36,Ewallet,95.76,6.454536,7.7261,8.7
+542036356,C,Porto Alegre,Membro,Masculino,Saúde e beleza,73.29,10,36.645,769.545,2024-02-03,02:14,Dinheiro,615.64,3.869066,29.7742,5.9
+25783293,C,Sales,Membro,Masculino,Casa e estilo de vida,98.18,3,14.727,309.267,2024-01-12,12:12,Ewallet,247.41,4.391639,13.5819,7.0
+519082395,A,Costa,Membro,Masculino,Esportes e viagens,34.89,9,15.7005,329.7105,2024-01-11,09:24,Cartão de crédito,263.77,3.467867,11.4339,8.2
+141922877,B,Martins,Normal,Masculino,Esportes e viagens,34.56,1,1.728,36.288,2024-02-07,22:01,Dinheiro,29.03,6.23767,2.2635,6.7
+851149423,A,Viana de Caldeira,Membro,Masculino,Saúde e beleza,74.81,3,11.2215,235.6515,2024-01-08,16:12,Ewallet,188.52,4.468008,10.5289,4.0
+598867573,A,Azevedo,Normal,Feminino,Saúde e beleza,66.53,4,13.306,279.426,2024-01-28,05:02,Dinheiro,223.54,4.941124,13.8068,7.0
+899789532,C,Sales,Membro,Masculino,Esportes e viagens,86.78,3,13.017,273.357,2024-01-13,06:31,Ewallet,218.69,6.825841,18.6589,6.9
+265834466,A,Campos,Membro,Masculino,Esportes e viagens,45.4,8,18.16,381.36,2024-01-11,20:10,Ewallet,305.09,6.892499,26.2852,6.3
+637291756,B,Vieira de Nascimento,Normal,Masculino,Alimentos e bebidas,38.46,5,9.615,201.915,2024-02-05,03:25,Dinheiro,161.53,3.724509,7.5203,8.2
+884307756,A,Azevedo do Campo,Normal,Masculino,Eletrônicos,39.25,4,7.85,164.85,2024-02-02,16:33,Dinheiro,131.88,3.181929,5.2454,6.2
+691052266,A,Campos,Membro,Masculino,Saúde e beleza,28.48,1,1.424,29.904,2024-01-24,05:20,Ewallet,23.92,5.691916,1.7021,7.5
+922540972,A,Aragão Paulista,Membro,Feminino,Eletrônicos,35.16,10,17.58,369.18,2024-02-07,04:03,Dinheiro,295.34,7.605618,28.0784,7.2
+236707824,C,Melo,Membro,Feminino,Casa e estilo de vida,46.92,7,16.422,344.862,2024-01-06,12:40,Dinheiro,275.89,6.733206,23.2203,6.5
+995949646,B,da Conceição de da Cunha,Normal,Feminino,Esportes e viagens,79.44,8,31.776,667.296,2024-01-29,04:43,Dinheiro,533.84,6.21694,41.4854,6.4
+401167706,C,das Neves Paulista,Normal,Masculino,Saúde e beleza,43.53,7,15.2355,319.9455,2024-02-07,22:58,Cartão de crédito,255.96,4.271299,13.6658,5.2
+867438267,C,Silva do Galho,Membro,Feminino,Casa e estilo de vida,84.82,7,29.687,623.427,2024-02-10,16:29,Dinheiro,498.74,5.283041,32.9359,7.0
+142000304,C,Fernandes,Membro,Masculino,Eletrônicos,83.38,1,4.169,87.549,2024-02-02,10:27,Dinheiro,70.04,5.296385,4.6369,4.8
+899759715,C,Cunha Grande,Normal,Masculino,Eletrônicos,82.88,8,33.152,696.192,2024-01-30,06:23,Dinheiro,556.95,3.63533,25.3089,8.5
+130796549,C,Peixoto,Normal,Masculino,Casa e estilo de vida,96.07,3,14.4105,302.6205,2024-01-05,16:50,Dinheiro,242.1,7.599797,22.9985,4.3
+434169718,A,Carvalho de Araújo,Normal,Masculino,Saúde e beleza,53.34,3,8.001,168.021,2024-01-28,10:36,Ewallet,134.42,6.266598,10.5292,7.4
+313505693,B,Fogaça,Membro,Feminino,Alimentos e bebidas,82.03,9,36.9135,775.1835,2024-01-06,15:53,Ewallet,620.15,4.476059,34.6977,4.7
+553959312,A,Sales de Almeida,Membro,Masculino,Eletrônicos,86.49,2,8.649,181.629,2024-01-06,01:48,Dinheiro,145.3,4.09581,7.4392,5.7
+193070324,A,Rezende Paulista,Membro,Feminino,Eletrônicos,21.29,2,2.129,44.709,2024-01-14,10:02,Cartão de crédito,35.77,6.51888,2.9145,5.0
+736246046,B,Gonçalves,Normal,Masculino,Alimentos e bebidas,53.02,2,5.302,111.342,2024-02-02,05:05,Dinheiro,89.07,3.738427,4.1624,6.5
+202329830,A,Moreira Verde,Membro,Feminino,Alimentos e bebidas,57.96,7,20.286,426.006,2024-01-16,22:35,Dinheiro,340.8,7.754706,33.0355,5.0
+164084455,B,Nunes de Minas,Normal,Feminino,Casa e estilo de vida,63.95,7,22.3825,470.0325,2024-01-05,14:09,Cartão de crédito,376.03,4.414092,20.7477,5.9
+378673514,B,Mendes de Minas,Membro,Feminino,Saúde e beleza,97.42,5,24.355,511.455,2024-01-05,00:24,Ewallet,409.16,5.557997,28.4267,5.3
+264160551,C,Campos,Membro,Masculino,Casa e estilo de vida,87.11,4,17.422,365.862,2024-02-03,13:56,Dinheiro,292.69,4.466778,16.3422,6.9
+730009913,B,Moura,Normal,Feminino,Esportes e viagens,68.73,10,34.365,721.665,2024-01-10,21:49,Ewallet,577.33,3.039279,21.9334,5.7
+30859669,B,Caldeira de Moraes,Normal,Feminino,Casa e estilo de vida,59.95,8,23.98,503.58,2024-02-07,18:41,Cartão de crédito,402.86,4.107589,20.685,6.5
+223172536,C,Cardoso,Membro,Feminino,Saúde e beleza,30.99,7,10.8465,227.7765,2024-01-09,02:32,Dinheiro,182.22,6.194491,14.1096,5.0
+521564776,B,Melo,Membro,Feminino,Eletrônicos,51.05,1,2.5525,53.6025,2024-02-01,20:00,Dinheiro,42.88,5.961532,3.1955,7.3
+628218208,B,Souza,Membro,Feminino,Esportes e viagens,14.33,10,7.165,150.465,2024-01-12,10:13,Ewallet,120.37,5.319141,8.0034,5.8
+206047517,A,Rodrigues,Membro,Masculino,Casa e estilo de vida,69.48,3,10.422,218.862,2024-01-24,13:17,Ewallet,175.09,4.633977,10.142,8.7
+258433503,A,Ferreira das Pedras,Membro,Masculino,Saúde e beleza,27.33,3,4.0995,86.0895,2024-02-02,09:12,Dinheiro,68.87,4.026804,3.4667,6.3
+786453776,B,Rezende,Normal,Feminino,Esportes e viagens,10.41,1,0.5205,10.9305,2024-01-11,01:33,Ewallet,8.74,7.207106,0.7878,6.3
+874460544,A,Novaes da Praia,Membro,Masculino,Casa e estilo de vida,52.07,2,5.207,109.347,2024-01-31,00:15,Dinheiro,87.48,4.810745,5.2604,5.3
+856626482,A,Mendes do Oeste,Membro,Feminino,Eletrônicos,26.14,1,1.307,27.447,2024-02-07,23:42,Cartão de crédito,21.96,7.247039,1.9891,4.0
+854158477,B,Almeida da Prata,Membro,Feminino,Esportes e viagens,67.6,3,10.14,212.94,2024-01-06,12:30,Dinheiro,170.35,4.596894,9.7886,8.5
+185145493,C,da Rosa,Membro,Feminino,Alimentos e bebidas,59.19,5,14.7975,310.7475,2024-01-10,09:14,Cartão de crédito,248.6,3.263424,10.141,6.7
+344980158,C,Duarte do Norte,Normal,Feminino,Casa e estilo de vida,21.81,4,4.362,91.602,2024-01-26,22:03,Dinheiro,73.28,5.64223,5.1684,7.9
+449170336,C,Pires,Membro,Masculino,Eletrônicos,78.28,6,23.484,493.164,2024-02-10,04:12,Cartão de crédito,394.53,6.506583,32.0881,7.9
+324838803,A,Rodrigues da Serra,Normal,Feminino,Alimentos e bebidas,68.47,1,3.4235,71.8935,2024-01-01,16:11,Cartão de crédito,57.51,6.799079,4.8881,4.9
+109236258,B,Moraes,Normal,Masculino,Esportes e viagens,43.6,7,15.26,320.46,2024-01-01,22:17,Ewallet,256.37,3.29558,10.561,8.1
+478279259,B,Ribeiro,Normal,Feminino,Saúde e beleza,89.67,2,8.967,188.307,2024-01-30,03:56,Cartão de crédito,150.65,4.065863,7.6563,5.0
+949382834,C,Cardoso do Oeste,Normal,Feminino,Saúde e beleza,85.42,8,34.168,717.528,2024-01-25,16:04,Cartão de crédito,574.02,6.647294,47.6962,5.0
+864964862,B,Cunha de Vieira,Membro,Feminino,Esportes e viagens,49.23,8,19.692,413.532,2024-01-04,23:01,Ewallet,330.83,5.433795,22.4705,4.4
+716324030,B,Azevedo de Carvalho,Normal,Masculino,Eletrônicos,98.81,3,14.8215,311.2515,2024-02-02,02:14,Ewallet,249.0,6.599638,20.5415,5.5
+283849805,A,Moreira de Minas,Normal,Feminino,Eletrônicos,70.06,9,31.527,662.067,2024-01-08,19:01,Cartão de crédito,529.65,5.463649,36.173,7.4
+957615076,B,das Neves de Minas,Normal,Masculino,Saúde e beleza,80.51,9,36.2295,760.8195,2024-01-26,03:01,Ewallet,608.66,5.81311,44.2273,7.1
+969854888,A,Farias da Mata,Membro,Feminino,Saúde e beleza,27.23,10,13.615,285.915,2024-02-01,14:48,Dinheiro,228.73,7.330028,20.9576,7.8
+36344557,A,Caldeira,Normal,Masculino,Casa e estilo de vida,76.52,8,30.608,642.768,2024-02-01,19:23,Ewallet,514.21,3.802809,24.4432,4.0
+752725493,A,Pires,Normal,Feminino,Alimentos e bebidas,13.77,3,2.0655,43.3755,2024-01-10,05:38,Cartão de crédito,34.7,6.098066,2.6451,7.1
+802933340,B,Ramos,Normal,Feminino,Eletrônicos,65.69,4,13.138,275.898,2024-02-10,15:12,Cartão de crédito,220.72,7.883724,21.751,6.3
+572407588,C,Azevedo Paulista,Normal,Masculino,Saúde e beleza,71.26,10,35.63,748.23,2024-02-03,07:43,Ewallet,598.58,4.739955,35.4658,7.3
+17476927,C,Rocha,Membro,Masculino,Alimentos e bebidas,67.21,9,30.2445,635.1345,2024-01-30,03:24,Cartão de crédito,508.11,6.510896,41.3529,7.3
+874567974,A,da Mota da Prata,Normal,Masculino,Eletrônicos,53.28,3,7.992,167.832,2024-02-10,00:34,Ewallet,134.27,4.395842,7.3776,7.1
+866701943,C,Barros,Normal,Feminino,Saúde e beleza,92.64,8,37.056,778.176,2024-01-12,10:28,Cartão de crédito,622.54,4.256075,33.1198,4.5
+993575088,C,Moura,Normal,Feminino,Casa e estilo de vida,88.09,3,13.2135,277.4835,2024-01-10,20:28,Dinheiro,221.99,6.066693,16.8341,6.7
+289890498,A,Gonçalves das Pedras,Normal,Masculino,Eletrônicos,50.01,7,17.5035,367.5735,2024-02-02,20:15,Dinheiro,294.06,6.615113,24.3154,5.2
+932684692,C,Correia,Normal,Masculino,Esportes e viagens,39.54,6,11.862,249.102,2024-02-09,20:29,Dinheiro,199.28,6.102798,15.2022,7.4
+186188518,B,Costa,Membro,Feminino,Alimentos e bebidas,27.88,10,13.94,292.74,2024-01-27,21:08,Ewallet,234.19,3.627979,10.6205,6.3
+753089595,C,Correia,Normal,Masculino,Saúde e beleza,52.77,10,26.385,554.085,2024-01-30,04:46,Ewallet,443.27,6.373827,35.3164,5.9
+396785230,B,da Cunha de Minas,Membro,Masculino,Esportes e viagens,98.21,9,44.1945,928.0845,2024-01-17,19:33,Dinheiro,742.47,7.122764,66.1053,8.2
+457696169,B,Mendes,Normal,Masculino,Esportes e viagens,91.69,3,13.7535,288.8235,2024-01-05,06:48,Ewallet,231.06,4.551348,13.1454,8.8
+485646165,C,Gonçalves do Oeste,Normal,Feminino,Saúde e beleza,66.16,8,26.464,555.744,2024-01-18,08:05,Ewallet,444.6,4.915595,27.3181,6.7
+998105472,B,Rezende de Carvalho,Normal,Masculino,Alimentos e bebidas,12.56,6,3.768,79.128,2024-01-18,13:32,Dinheiro,63.3,6.463444,5.1144,4.6
+275201025,A,Pires,Normal,Feminino,Alimentos e bebidas,58.44,5,14.61,306.81,2024-02-01,21:46,Cartão de crédito,245.45,6.486632,19.9016,6.6
+652717481,B,Cunha,Normal,Feminino,Esportes e viagens,43.88,6,13.164,276.444,2024-01-30,14:08,Cartão de crédito,221.16,7.255876,20.0584,8.8
+192085186,A,Viana da Mata,Membro,Masculino,Casa e estilo de vida,31.13,3,4.6695,98.0595,2024-01-10,18:09,Dinheiro,78.45,5.547058,5.4394,6.0
+7363665,C,Lima,Membro,Masculino,Alimentos e bebidas,10.17,6,3.051,64.071,2024-01-14,21:28,Dinheiro,51.26,6.17809,3.9584,5.3
+153718692,C,das Neves,Normal,Masculino,Esportes e viagens,35.69,5,8.9225,187.3725,2024-02-02,01:13,Dinheiro,149.9,7.814763,14.6427,4.6
+787614327,B,da Costa do Sul,Normal,Masculino,Alimentos e bebidas,48.68,4,9.736,204.456,2024-01-28,22:59,Ewallet,163.56,6.37854,13.0413,8.6
+470557151,C,Almeida dos Dourados,Membro,Feminino,Esportes e viagens,13.67,9,6.1515,129.1815,2024-01-03,11:46,Cartão de crédito,103.35,3.101481,4.0065,6.4
+100393391,A,Silveira de Rodrigues,Normal,Feminino,Esportes e viagens,88.94,6,26.682,560.322,2024-01-01,18:14,Ewallet,448.26,6.637026,37.1887,4.0
+300557243,B,Martins,Membro,Masculino,Alimentos e bebidas,21.32,5,5.33,111.93,2024-01-07,10:11,Cartão de crédito,89.54,7.443519,8.3315,5.0
+655244688,B,Lima,Normal,Masculino,Casa e estilo de vida,53.53,8,21.412,449.652,2024-01-04,22:48,Ewallet,359.72,7.966273,35.8205,8.3
+504206136,C,Azevedo,Membro,Feminino,Casa e estilo de vida,53.72,4,10.744,225.624,2024-01-20,05:48,Ewallet,180.5,6.339073,14.3025,8.9
+442410177,B,Lima das Flores,Membro,Feminino,Eletrônicos,69.33,7,24.2655,509.5755,2024-01-22,05:00,Dinheiro,407.66,5.34733,27.2487,8.7
+146548364,C,Castro,Membro,Masculino,Alimentos e bebidas,82.35,10,41.175,864.675,2024-01-18,17:07,Cartão de crédito,691.74,5.111335,44.1964,7.6
+398678562,C,da Luz,Normal,Feminino,Casa e estilo de vida,94.83,7,33.1905,697.0005,2024-01-24,16:49,Cartão de crédito,557.6,7.104217,49.5164,5.0
+837450534,C,Duarte,Membro,Masculino,Eletrônicos,91.42,7,31.997,671.937,2024-01-14,00:07,Cartão de crédito,537.55,5.754602,38.6673,8.0
+573768305,B,Silveira de Goiás,Membro,Feminino,Alimentos e bebidas,34.47,1,1.7235,36.1935,2024-01-14,06:10,Cartão de crédito,28.95,7.750031,2.805,4.6
+289005269,B,Mendes,Membro,Masculino,Casa e estilo de vida,16.61,8,6.644,139.524,2024-02-06,13:45,Ewallet,111.62,5.890803,8.2191,4.8
+557557736,A,Duarte,Membro,Feminino,Esportes e viagens,98.3,4,19.66,412.86,2024-01-21,08:10,Ewallet,330.29,5.993884,24.7463,4.9
+126881415,B,Novaes,Normal,Masculino,Casa e estilo de vida,18.48,8,7.392,155.232,2024-01-15,11:32,Cartão de crédito,124.19,3.849342,5.9754,6.5
+483941249,B,Barbosa do Campo,Membro,Feminino,Saúde e beleza,79.64,2,7.964,167.244,2024-02-06,08:52,Ewallet,133.8,7.141128,11.9431,6.2
+932704499,A,Mendes de da Cunha,Membro,Masculino,Casa e estilo de vida,25.25,8,10.1,212.1,2024-01-21,09:46,Cartão de crédito,169.68,6.660946,14.1279,4.0
+677601538,B,Gomes,Normal,Feminino,Esportes e viagens,18.04,2,1.804,37.884,2024-02-05,17:09,Cartão de crédito,30.31,4.816064,1.8245,8.7
+725095808,A,Nunes,Normal,Masculino,Saúde e beleza,71.1,4,14.22,298.62,2024-01-24,11:16,Ewallet,238.9,7.976883,23.8206,4.2
+948803378,A,Monteiro,Normal,Feminino,Casa e estilo de vida,19.73,4,3.946,82.866,2024-01-05,07:39,Ewallet,66.29,4.778421,3.9597,5.9
+26700615,B,Nogueira Grande,Normal,Masculino,Esportes e viagens,64.43,6,19.329,405.909,2024-01-12,22:20,Dinheiro,324.73,6.254899,25.3892,4.7
+830589753,B,Porto do Sul,Normal,Masculino,Alimentos e bebidas,64.82,2,6.482,136.122,2024-01-18,05:14,Dinheiro,108.9,3.980691,5.4186,6.0
+967130709,B,das Neves,Membro,Feminino,Alimentos e bebidas,13.43,10,6.715,141.015,2024-01-01,04:47,Ewallet,112.81,5.736083,8.0887,4.1
+961923509,A,Silveira,Membro,Masculino,Esportes e viagens,96.79,5,24.1975,508.1475,2024-01-20,20:19,Dinheiro,406.52,4.194052,21.312,7.5
+452385009,A,Almeida Verde,Membro,Feminino,Esportes e viagens,97.78,4,19.556,410.676,2024-01-11,16:47,Dinheiro,328.54,6.370656,26.1628,5.9
+667298762,A,Cardoso,Normal,Feminino,Esportes e viagens,83.36,5,20.84,437.64,2024-01-13,18:50,Cartão de crédito,350.11,3.097975,13.558,4.8
+561758943,B,Lopes,Membro,Feminino,Casa e estilo de vida,31.45,4,6.29,132.09,2024-01-03,01:36,Cartão de crédito,105.67,5.030972,6.6454,4.9
+914834266,C,Araújo,Normal,Masculino,Casa e estilo de vida,32.42,3,4.863,102.123,2024-02-01,15:13,Cartão de crédito,81.7,6.086322,6.2155,6.6
+142659937,B,Teixeira,Membro,Feminino,Alimentos e bebidas,62.56,1,3.128,65.688,2024-01-04,01:11,Ewallet,52.55,5.372012,3.5288,4.7
+114967384,A,Cavalcanti das Flores,Normal,Feminino,Alimentos e bebidas,64.4,2,6.44,135.24,2024-01-18,11:38,Dinheiro,108.19,7.772753,10.5119,7.7
+492801420,B,da Paz,Normal,Masculino,Casa e estilo de vida,80.29,6,24.087,505.827,2024-01-11,14:18,Dinheiro,404.66,4.331415,21.9095,6.4
+135607799,A,Sales da Praia,Membro,Feminino,Esportes e viagens,70.04,8,28.016,588.336,2024-01-16,21:06,Cartão de crédito,470.67,6.670992,39.2478,7.2
+167111078,A,Rodrigues do Sul,Membro,Feminino,Saúde e beleza,99.39,1,4.9695,104.3595,2024-01-09,13:14,Dinheiro,83.49,7.859808,8.2025,5.3
+59227182,A,Alves,Normal,Masculino,Casa e estilo de vida,53.69,10,26.845,563.745,2024-02-10,19:25,Cartão de crédito,451.0,7.985433,45.0175,5.4
+276010346,A,Barros,Normal,Feminino,Esportes e viagens,12.08,10,6.04,126.84,2024-01-06,05:24,Ewallet,101.47,7.682902,9.745,6.7
+567471288,A,da Rocha da Prata,Membro,Feminino,Casa e estilo de vida,34.96,1,1.748,36.708,2024-01-17,23:02,Dinheiro,29.37,3.863722,1.4183,7.0
+322614576,A,Porto,Membro,Masculino,Eletrônicos,74.68,8,29.872,627.312,2024-01-13,06:42,Dinheiro,501.85,3.473476,21.7895,4.6
+555472744,B,Cunha de Pinto,Normal,Feminino,Alimentos e bebidas,33.39,8,13.356,280.476,2024-01-20,19:09,Cartão de crédito,224.38,3.316758,9.3027,6.6
+386307625,A,Monteiro de Pinto,Membro,Masculino,Esportes e viagens,71.58,4,14.316,300.636,2024-01-17,06:20,Cartão de crédito,240.51,4.567371,13.7312,5.3
+521427559,C,Ribeiro,Membro,Masculino,Casa e estilo de vida,35.77,9,16.0965,338.0265,2024-02-05,09:01,Ewallet,270.42,7.109564,24.0322,5.1
+351880664,B,Oliveira de Barbosa,Normal,Masculino,Saúde e beleza,85.09,4,17.018,357.378,2024-01-18,22:51,Dinheiro,285.9,7.018101,25.0811,5.8
+848421874,A,Rocha,Membro,Masculino,Saúde e beleza,36.72,6,11.016,231.336,2024-02-08,18:10,Ewallet,185.07,5.807636,13.4352,7.4
+528890363,B,Rocha,Membro,Feminino,Esportes e viagens,75.07,7,26.2745,551.7645,2024-01-06,00:22,Dinheiro,441.41,4.357224,24.0416,8.3
+55404273,A,da Costa de da Paz,Membro,Feminino,Saúde e beleza,87.18,4,17.436,366.156,2024-01-05,09:12,Dinheiro,292.92,7.229735,26.4721,5.9
+18006763,B,Cunha,Normal,Feminino,Esportes e viagens,18.78,10,9.39,197.19,2024-01-01,00:21,Dinheiro,157.75,4.793549,9.4524,8.8
+59671375,C,Araújo do Campo,Membro,Masculino,Casa e estilo de vida,26.3,1,1.315,27.615,2024-01-07,00:22,Ewallet,22.09,5.977779,1.6508,6.6
+510827342,A,Martins de Minas,Membro,Masculino,Casa e estilo de vida,83.44,2,8.344,175.224,2024-01-14,02:32,Ewallet,140.18,4.049305,7.0954,6.9
+176569103,C,Silveira de Minas,Normal,Feminino,Eletrônicos,82.53,3,12.3795,259.9695,2024-01-03,22:25,Cartão de crédito,207.98,3.618496,9.407,7.2
+183762594,A,Cunha,Normal,Feminino,Casa e estilo de vida,30.01,1,1.5005,31.5105,2024-01-24,18:28,Dinheiro,25.21,3.598439,1.1339,7.3
+145373745,C,Freitas,Membro,Feminino,Alimentos e bebidas,60.4,3,9.06,190.26,2024-02-05,12:05,Cartão de crédito,152.21,3.018241,5.7425,6.9
+672524853,C,Pires,Normal,Masculino,Alimentos e bebidas,25.92,4,5.184,108.864,2024-01-28,14:39,Cartão de crédito,87.09,5.358187,5.8331,5.0
+606130228,A,Correia,Normal,Feminino,Alimentos e bebidas,54.19,9,24.3855,512.0955,2024-01-25,08:45,Dinheiro,409.68,3.088086,15.8139,6.8
+188370009,B,Farias do Norte,Membro,Masculino,Eletrônicos,44.48,2,4.448,93.408,2024-01-06,06:17,Ewallet,74.73,3.500982,3.2702,4.1
+156340221,A,Pires,Membro,Feminino,Alimentos e bebidas,44.53,7,15.5855,327.2955,2024-01-12,14:34,Dinheiro,261.84,5.462152,17.8774,8.0
+573182950,B,Ramos,Membro,Masculino,Eletrônicos,44.32,10,22.16,465.36,2024-01-16,05:36,Dinheiro,372.29,4.995328,23.2463,5.3
+132801332,C,Cunha de Goiás,Normal,Masculino,Casa e estilo de vida,46.7,1,2.335,49.035,2024-02-05,00:50,Ewallet,39.23,7.995379,3.9205,7.8
+839472628,B,da Costa,Normal,Masculino,Esportes e viagens,17.29,7,6.0515,127.0815,2024-01-22,05:08,Cartão de crédito,101.67,5.585337,7.0979,8.9
+178403095,C,da Cunha de Costa,Normal,Masculino,Esportes e viagens,71.75,5,17.9375,376.6875,2024-02-01,14:39,Dinheiro,301.35,6.965317,26.2375,8.5
+187818333,B,Freitas,Membro,Feminino,Alimentos e bebidas,63.58,10,31.79,667.59,2024-01-03,15:49,Cartão de crédito,534.07,3.849693,25.7002,6.6
+379342064,A,Rezende,Membro,Masculino,Esportes e viagens,36.27,6,10.881,228.501,2024-01-14,02:48,Cartão de crédito,182.8,5.525036,12.6248,4.8
+523748953,B,Rodrigues de da Cunha,Membro,Feminino,Saúde e beleza,50.61,7,17.7135,371.9835,2024-01-27,18:50,Dinheiro,297.59,5.163414,19.207,7.1
+693247770,C,Alves,Normal,Masculino,Eletrônicos,95.58,4,19.116,401.436,2024-02-03,20:38,Ewallet,321.15,5.741153,23.0471,5.7
+60938700,A,Porto,Membro,Masculino,Esportes e viagens,57.2,4,11.44,240.24,2024-01-11,04:44,Dinheiro,192.19,7.88478,18.9424,5.2
+184510130,C,Sales da Serra,Membro,Masculino,Alimentos e bebidas,66.86,4,13.372,280.812,2024-02-03,00:11,Dinheiro,224.65,6.258634,17.575,5.7
+525976881,B,Mendes do Campo,Membro,Feminino,Alimentos e bebidas,65.81,2,6.581,138.201,2024-01-19,21:52,Cartão de crédito,110.56,5.341968,7.3827,5.3
+430820090,C,Barbosa,Membro,Feminino,Casa e estilo de vida,50.12,6,15.036,315.756,2024-01-07,17:31,Cartão de crédito,252.6,4.953994,15.6425,4.7
+225442769,A,Freitas,Membro,Masculino,Eletrônicos,87.39,5,21.8475,458.7975,2024-01-14,04:59,Ewallet,367.04,6.696332,30.7226,8.8
+641915894,C,Costa de Sales,Normal,Feminino,Casa e estilo de vida,58.54,9,26.343,553.203,2024-01-24,14:52,Ewallet,442.56,6.041344,33.4209,8.2
+437825869,C,Souza de da Costa,Normal,Masculino,Esportes e viagens,22.34,4,4.468,93.828,2024-01-27,04:04,Dinheiro,75.06,3.218001,3.0194,6.2
+908724185,A,Cardoso,Normal,Feminino,Esportes e viagens,54.77,2,5.477,115.017,2024-01-23,00:18,Cartão de crédito,92.01,4.014858,4.6178,6.8
+783560725,B,Monteiro da Serra,Normal,Masculino,Eletrônicos,12.97,3,1.9455,40.8555,2024-01-12,04:42,Cartão de crédito,32.68,4.093704,1.6725,6.3
+820805878,B,Caldeira das Flores,Membro,Feminino,Esportes e viagens,51.77,3,7.7655,163.0755,2024-01-12,01:18,Ewallet,130.46,4.841768,7.8957,4.4
+883048734,B,Pires,Normal,Masculino,Alimentos e bebidas,98.75,3,14.8125,311.0625,2024-01-23,10:46,Dinheiro,248.85,4.96598,15.4473,6.4
+900572353,B,Cunha Grande,Normal,Feminino,Eletrônicos,44.58,7,15.603,327.663,2024-02-08,00:45,Dinheiro,262.13,7.42478,24.3283,7.5
+106446166,C,Rocha de Goiás,Normal,Feminino,Eletrônicos,55.66,9,25.047,525.987,2024-01-13,13:56,Dinheiro,420.79,3.29642,17.3387,8.7
+814936870,B,Fogaça de Goiás,Membro,Feminino,Casa e estilo de vida,79.5,2,7.95,166.95,2024-01-26,13:52,Dinheiro,133.56,6.416137,10.7117,8.1
+44264589,A,Peixoto,Normal,Feminino,Saúde e beleza,85.87,8,34.348,721.308,2024-01-07,05:22,Ewallet,577.05,5.871051,42.3484,5.0
+2122482,B,Pinto do Norte,Membro,Masculino,Alimentos e bebidas,50.1,8,20.04,420.84,2024-01-21,01:02,Dinheiro,336.67,4.783861,20.1324,7.7
+556719191,B,Azevedo de Ribeiro,Membro,Feminino,Alimentos e bebidas,95.42,3,14.313,300.573,2024-02-06,16:29,Ewallet,240.46,6.977272,20.9718,8.3
+116648853,A,Moreira,Normal,Masculino,Saúde e beleza,67.51,7,23.6285,496.1985,2024-02-05,05:33,Cartão de crédito,396.96,7.620149,37.8111,6.1
+318517322,A,Monteiro do Campo,Normal,Feminino,Casa e estilo de vida,68.95,3,10.3425,217.1925,2024-01-27,02:24,Cartão de crédito,173.75,5.411233,11.7528,7.9
+550504269,A,da Rocha,Normal,Masculino,Esportes e viagens,39.78,8,15.912,334.152,2024-01-28,04:33,Ewallet,267.32,4.553372,15.2152,9.0
+812464754,B,Moreira,Membro,Feminino,Alimentos e bebidas,36.52,7,12.782,268.422,2024-01-08,03:03,Cartão de crédito,214.74,3.456274,9.2774,5.2
+367377560,A,da Mata Alegre,Membro,Masculino,Eletrônicos,73.48,8,29.392,617.232,2024-01-12,09:39,Dinheiro,493.79,6.875963,42.4406,8.2
+613509701,A,Costa,Membro,Feminino,Saúde e beleza,90.75,3,13.6125,285.8625,2024-01-01,06:40,Cartão de crédito,228.69,6.552492,18.7311,4.0
+455025151,C,Rocha de Cardoso,Membro,Masculino,Eletrônicos,60.09,5,15.0225,315.4725,2024-01-06,21:40,Cartão de crédito,252.38,7.179879,22.6505,6.5
+204743173,A,Martins Alegre,Normal,Feminino,Saúde e beleza,64.34,6,19.302,405.342,2024-02-04,15:41,Ewallet,324.27,6.516425,26.4138,6.1
+275455103,A,da Rocha de Goiás,Normal,Masculino,Saúde e beleza,30.08,2,3.008,63.168,2024-01-09,15:27,Dinheiro,50.53,5.9945,3.7866,8.0
+646508241,B,Alves,Membro,Feminino,Eletrônicos,16.37,7,5.7295,120.3195,2024-02-09,17:48,Cartão de crédito,96.26,6.783957,8.1624,8.5
+39619851,A,Fogaça,Membro,Masculino,Casa e estilo de vida,96.37,9,43.3665,910.6965,2024-01-17,20:50,Cartão de crédito,728.56,3.935375,35.8393,5.6
+749224725,C,Nogueira de Goiás,Membro,Masculino,Esportes e viagens,91.15,2,9.115,191.415,2024-02-02,07:06,Ewallet,153.13,3.551755,6.7986,9.0
+927497784,A,Fernandes da Praia,Normal,Masculino,Saúde e beleza,33.67,6,10.101,212.121,2024-01-11,12:49,Cartão de crédito,169.7,4.609325,9.7773,4.8
+67357683,C,Pereira,Normal,Masculino,Eletrônicos,62.45,5,15.6125,327.8625,2024-01-11,07:40,Cartão de crédito,262.29,7.923908,25.9795,4.1
+481150406,B,Dias Grande,Normal,Feminino,Eletrônicos,22.1,4,4.42,92.82,2024-01-02,19:40,Dinheiro,74.26,4.29316,3.9849,6.5
+654025261,A,Alves da Mata,Membro,Feminino,Alimentos e bebidas,41.3,7,14.455,303.555,2024-01-29,21:48,Dinheiro,242.84,7.754931,23.5405,8.4
+265072808,B,da Luz,Membro,Masculino,Alimentos e bebidas,80.92,8,32.368,679.728,2024-02-06,06:39,Ewallet,543.78,7.66932,52.1305,8.4
+50432997,B,Cavalcanti,Normal,Feminino,Eletrônicos,76.0,9,34.2,718.2,2024-02-07,11:11,Dinheiro,574.56,7.275572,52.2532,6.7
+267696754,B,Moura de Minas,Membro,Feminino,Casa e estilo de vida,44.98,10,22.49,472.29,2024-01-07,02:07,Cartão de crédito,377.83,4.862428,22.9648,8.3
+729619730,A,Oliveira das Pedras,Normal,Masculino,Saúde e beleza,96.49,7,33.7715,709.2015,2024-01-13,19:50,Ewallet,567.36,5.884278,41.7314,8.2
+33157107,A,Nascimento,Membro,Feminino,Casa e estilo de vida,14.81,9,6.6645,139.9545,2024-01-04,06:00,Cartão de crédito,111.96,4.112882,5.7562,6.0
+872816135,A,Freitas da Serra,Normal,Masculino,Eletrônicos,22.05,6,6.615,138.915,2024-01-20,14:06,Dinheiro,111.13,3.177685,4.4143,6.4
+272105042,A,Moreira da Mata,Normal,Masculino,Eletrônicos,99.49,8,39.796,835.716,2024-02-08,16:12,Ewallet,668.57,5.450545,45.5511,7.3
+727922304,B,Farias da Serra,Membro,Feminino,Eletrônicos,69.36,8,27.744,582.624,2024-01-17,08:53,Dinheiro,466.1,4.829243,28.1363,4.4
+765344555,C,da Cunha,Normal,Masculino,Esportes e viagens,95.27,5,23.8175,500.1675,2024-02-10,18:28,Dinheiro,400.13,6.115096,30.5857,7.8
+119612468,C,Pinto,Membro,Masculino,Alimentos e bebidas,27.94,1,1.397,29.337,2024-01-15,02:38,Dinheiro,23.47,7.410292,2.174,8.8
+299928427,B,Cardoso do Sul,Membro,Masculino,Alimentos e bebidas,87.04,7,30.464,639.744,2024-01-08,02:57,Dinheiro,511.8,7.511536,48.0546,7.3
+897590807,C,Novaes,Membro,Masculino,Esportes e viagens,48.85,2,4.885,102.585,2024-01-16,15:07,Dinheiro,82.07,6.561297,6.7309,7.1
+989717394,A,Campos,Normal,Feminino,Saúde e beleza,64.59,8,25.836,542.556,2024-01-21,08:32,Ewallet,434.04,3.779878,20.508,5.3
+526428792,A,da Costa,Normal,Masculino,Eletrônicos,23.3,2,2.33,48.93,2024-01-09,00:54,Cartão de crédito,39.14,7.605801,3.7215,6.6
+280852780,A,Dias da Mata,Membro,Feminino,Esportes e viagens,40.73,6,12.219,256.599,2024-01-13,00:30,Ewallet,205.28,5.699354,14.6245,5.7
+683722859,A,Peixoto de Moreira,Membro,Masculino,Eletrônicos,17.35,6,5.205,109.305,2024-01-18,00:31,Ewallet,87.44,6.045567,6.6081,6.0
+610783477,C,Azevedo dos Dourados,Membro,Feminino,Saúde e beleza,92.33,8,36.932,775.572,2024-02-05,01:26,Cartão de crédito,620.46,3.047476,23.6354,4.2
+487831820,A,Souza Alegre,Normal,Feminino,Casa e estilo de vida,44.74,2,4.474,93.954,2024-01-27,20:45,Dinheiro,75.16,4.344981,4.0823,4.1
+320619729,A,Pinto Alegre,Normal,Feminino,Esportes e viagens,80.76,6,24.228,508.788,2024-01-24,03:13,Cartão de crédito,407.03,4.443165,22.6063,7.6
+152176160,B,Monteiro,Membro,Masculino,Esportes e viagens,91.96,10,45.98,965.58,2024-01-01,14:01,Cartão de crédito,772.46,5.944149,57.3955,4.4
+521682275,A,Carvalho da Prata,Membro,Masculino,Eletrônicos,99.71,9,44.8695,942.2595,2024-01-02,08:24,Cartão de crédito,753.81,6.441244,60.6932,8.2
+855247322,A,Fogaça,Membro,Masculino,Casa e estilo de vida,64.49,7,22.5715,474.0015,2024-01-04,18:46,Ewallet,379.2,5.281658,25.0351,7.8
+374941318,B,Freitas das Flores,Normal,Feminino,Eletrônicos,53.54,2,5.354,112.434,2024-02-08,05:47,Cartão de crédito,89.95,3.917725,4.4049,7.6
+283087389,A,Lima do Norte,Membro,Masculino,Alimentos e bebidas,82.32,10,41.16,864.36,2024-01-31,12:01,Ewallet,691.49,4.173505,36.0741,8.9
+771266332,A,Azevedo das Pedras,Membro,Masculino,Casa e estilo de vida,59.31,2,5.931,124.551,2024-01-08,03:38,Cartão de crédito,99.64,6.148681,7.6582,7.9
+839798919,C,Cavalcanti,Normal,Masculino,Casa e estilo de vida,90.67,5,22.6675,476.0175,2024-01-30,08:36,Dinheiro,380.81,4.017148,19.1223,5.7
+503744240,A,Costa do Galho,Normal,Feminino,Casa e estilo de vida,68.1,4,13.62,286.02,2024-02-01,07:50,Dinheiro,228.82,6.108975,17.4729,4.8
+153857328,C,Lima,Membro,Masculino,Eletrônicos,64.31,4,12.862,270.102,2024-01-15,14:10,Dinheiro,216.08,6.366056,17.1948,5.4
+525180994,C,Correia,Membro,Masculino,Alimentos e bebidas,29.15,1,1.4575,30.6075,2024-01-06,13:30,Ewallet,24.49,4.285369,1.3116,9.0
+994161518,C,Correia,Membro,Masculino,Eletrônicos,73.17,3,10.9755,230.4855,2024-02-09,12:04,Dinheiro,184.39,3.9129,9.0187,8.0
+124814796,C,Gonçalves,Membro,Masculino,Alimentos e bebidas,51.3,10,25.65,538.65,2024-01-16,11:47,Dinheiro,430.92,4.113542,22.1576,5.4
+468976606,B,Lopes,Normal,Feminino,Saúde e beleza,70.19,7,24.5665,515.8965,2024-01-17,08:46,Cartão de crédito,412.72,6.696153,34.5452,4.0
+420713980,A,Oliveira de Aragão,Membro,Masculino,Esportes e viagens,48.55,6,14.565,305.865,2024-01-20,03:03,Ewallet,244.69,3.675459,11.2419,5.3
+293209366,A,Rocha,Membro,Feminino,Casa e estilo de vida,17.92,4,3.584,75.264,2024-01-23,15:54,Cartão de crédito,60.21,6.045021,4.5497,7.3
+595726507,A,Azevedo,Membro,Feminino,Eletrônicos,95.95,8,38.38,805.98,2024-02-01,05:53,Cartão de crédito,644.78,6.36845,51.3284,5.6
+720141414,A,da Paz,Membro,Masculino,Alimentos e bebidas,16.45,7,5.7575,120.9075,2024-02-06,11:41,Ewallet,96.73,3.659504,4.4246,4.1
+359656389,B,Pereira,Membro,Feminino,Saúde e beleza,90.21,2,9.021,189.441,2024-01-25,00:47,Cartão de crédito,151.55,4.006254,7.5895,7.9
+451064026,C,Cardoso,Membro,Masculino,Eletrônicos,61.3,3,9.195,193.095,2024-01-18,19:32,Cartão de crédito,154.48,7.754504,14.9736,8.0
+457862819,B,da Mata de Costa,Normal,Feminino,Alimentos e bebidas,33.6,2,3.36,70.56,2024-02-01,05:36,Cartão de crédito,56.45,4.389938,3.0975,5.5
+262625178,B,Azevedo das Flores,Normal,Masculino,Eletrônicos,20.98,5,5.245,110.145,2024-01-06,11:10,Ewallet,88.12,7.476822,8.2353,6.7
+242422907,B,das Neves Alegre,Normal,Masculino,Alimentos e bebidas,81.01,3,12.1515,255.1815,2024-01-21,02:30,Dinheiro,204.15,6.965683,17.7751,4.2
+462367106,C,Rezende Paulista,Membro,Masculino,Alimentos e bebidas,67.49,2,6.749,141.729,2024-02-09,07:17,Dinheiro,113.38,6.389292,9.0555,7.1
+490704375,C,Caldeira,Normal,Masculino,Alimentos e bebidas,44.33,6,13.299,279.279,2024-01-07,23:15,Ewallet,223.42,4.598592,12.8429,9.0
+255258639,C,Azevedo,Membro,Feminino,Alimentos e bebidas,73.57,6,22.071,463.491,2024-01-27,03:00,Ewallet,370.79,5.377653,24.9249,8.8
+57984009,C,Ferreira,Normal,Feminino,Saúde e beleza,57.32,8,22.928,481.488,2024-02-01,12:32,Dinheiro,385.19,5.385207,25.9291,4.2
+222840850,B,Gomes,Membro,Feminino,Eletrônicos,67.83,2,6.783,142.443,2024-01-09,10:53,Ewallet,113.95,7.174929,10.2202,4.2
+93501176,A,Fogaça Paulista,Membro,Masculino,Esportes e viagens,56.9,8,22.76,477.96,2024-01-22,07:56,Dinheiro,382.37,6.387539,30.5299,8.8
+918883366,B,Nogueira,Normal,Masculino,Esportes e viagens,48.41,3,7.2615,152.4915,2024-01-10,11:37,Dinheiro,121.99,5.310255,8.0977,8.9
+499839489,C,Carvalho do Oeste,Membro,Masculino,Casa e estilo de vida,12.62,5,3.155,66.255,2024-01-07,23:42,Cartão de crédito,53.0,3.441418,2.2801,4.1
+355594474,B,Caldeira,Membro,Masculino,Casa e estilo de vida,33.32,3,4.998,104.958,2024-01-31,19:19,Cartão de crédito,83.97,6.845429,7.1848,5.3
+558333118,C,Gomes de Moura,Normal,Masculino,Eletrônicos,17.97,2,1.797,37.737,2024-02-10,15:37,Cartão de crédito,30.19,5.234935,1.9755,5.1
+293252712,A,Moreira do Norte,Membro,Feminino,Eletrônicos,40.78,10,20.39,428.19,2024-01-04,15:41,Ewallet,342.55,7.717783,33.0468,8.3
+189023223,B,da Luz da Serra,Membro,Masculino,Saúde e beleza,14.92,7,5.222,109.662,2024-01-18,09:21,Dinheiro,87.73,3.951447,4.3332,4.9
+668284556,C,da Rosa,Membro,Feminino,Esportes e viagens,28.21,5,7.0525,148.1025,2024-01-15,03:29,Dinheiro,118.48,7.712964,11.4231,7.9
+249012213,A,Novaes,Normal,Feminino,Casa e estilo de vida,14.29,1,0.7145,15.0045,2024-01-23,06:37,Cartão de crédito,12.0,3.901615,0.5854,4.8
+402944178,B,Cunha Verde,Membro,Feminino,Saúde e beleza,49.41,1,2.4705,51.8805,2024-01-12,15:17,Ewallet,41.5,7.437612,3.8587,5.3
+600369367,B,Carvalho,Normal,Masculino,Saúde e beleza,23.36,4,4.672,98.112,2024-01-29,11:46,Ewallet,78.49,5.282585,5.1828,8.9
+737271744,A,Rocha,Membro,Masculino,Esportes e viagens,90.59,1,4.5295,95.1195,2024-01-02,15:47,Dinheiro,76.1,6.718475,6.3906,5.2
+415815200,A,Monteiro do Galho,Membro,Masculino,Saúde e beleza,40.17,5,10.0425,210.8925,2024-01-07,21:29,Ewallet,168.71,5.155065,10.8716,7.9
+86231973,B,Rocha do Oeste,Membro,Masculino,Eletrônicos,90.92,6,27.276,572.796,2024-01-29,11:30,Ewallet,458.24,4.695369,26.8949,5.6
+565880688,B,Campos,Membro,Masculino,Alimentos e bebidas,84.93,4,16.986,356.706,2024-02-09,21:35,Ewallet,285.36,3.762582,13.4214,6.6
+13865960,B,Lima,Membro,Masculino,Casa e estilo de vida,13.44,5,3.36,70.56,2024-01-30,21:43,Dinheiro,56.45,5.320386,3.7541,7.6
+83851319,A,Dias da Prata,Membro,Feminino,Alimentos e bebidas,63.88,5,15.97,335.37,2024-01-26,23:22,Dinheiro,268.3,3.622934,12.1502,4.5
+913581064,A,Silva,Membro,Feminino,Saúde e beleza,44.6,2,4.46,93.66,2024-02-06,15:22,Ewallet,74.93,3.956583,3.7057,5.3
+882929222,A,da Mota do Campo,Normal,Feminino,Saúde e beleza,30.43,7,10.6505,223.6605,2024-02-07,00:51,Dinheiro,178.93,4.092413,9.1531,7.6
+970520271,A,Rodrigues de Minas,Normal,Feminino,Casa e estilo de vida,94.94,7,33.229,697.809,2024-01-14,02:52,Cartão de crédito,558.25,7.903083,55.1484,5.9
+828021783,B,Monteiro do Galho,Membro,Masculino,Casa e estilo de vida,48.39,1,2.4195,50.8095,2024-02-05,21:33,Ewallet,40.65,6.725607,3.4172,6.4
+943634244,C,Oliveira de Alves,Membro,Feminino,Saúde e beleza,14.47,3,2.1705,45.5805,2024-01-28,02:12,Dinheiro,36.46,5.039401,2.297,4.5
+559899218,A,da Paz da Serra,Membro,Masculino,Alimentos e bebidas,52.3,3,7.845,164.745,2024-01-08,02:46,Cartão de crédito,131.8,4.401983,7.252,8.2
+701287469,B,Correia,Normal,Masculino,Casa e estilo de vida,46.91,8,18.764,394.044,2024-01-27,03:47,Dinheiro,315.24,4.939876,19.4653,5.4
+239301540,C,Rodrigues,Membro,Masculino,Alimentos e bebidas,22.8,4,4.56,95.76,2024-01-31,18:12,Ewallet,76.61,6.428316,6.1558,5.1
+883644079,A,da Cruz de Peixoto,Normal,Feminino,Alimentos e bebidas,50.28,6,15.084,316.764,2024-01-30,04:29,Dinheiro,253.41,3.712562,11.7601,7.5
+820924765,A,Pereira da Prata,Membro,Masculino,Esportes e viagens,91.33,6,27.399,575.379,2024-02-04,14:07,Ewallet,460.3,7.991915,45.9838,8.5
+374857126,B,Jesus,Membro,Feminino,Alimentos e bebidas,28.1,2,2.81,59.01,2024-02-07,15:56,Ewallet,47.21,4.820334,2.8445,4.9
+636268839,B,Nunes,Membro,Feminino,Casa e estilo de vida,72.35,5,18.0875,379.8375,2024-01-21,14:17,Dinheiro,303.87,5.872476,22.3059,8.4
+32293230,B,Alves Paulista,Membro,Feminino,Saúde e beleza,84.44,1,4.222,88.662,2024-01-02,02:31,Cartão de crédito,70.93,6.719928,5.958,6.9
+273200828,C,Mendes,Normal,Feminino,Eletrônicos,49.32,3,7.398,155.358,2024-01-14,01:39,Dinheiro,124.29,3.007319,4.6721,8.2
+423289736,A,Rezende de Vieira,Membro,Feminino,Saúde e beleza,18.28,4,3.656,76.776,2024-02-08,20:00,Ewallet,61.42,4.676215,3.5902,6.8
+160182642,C,Moreira dos Dourados,Normal,Masculino,Saúde e beleza,41.59,2,4.159,87.339,2024-01-12,20:45,Ewallet,69.87,6.743115,5.8894,4.4
+604998569,A,Alves do Amparo,Membro,Feminino,Esportes e viagens,31.07,5,7.7675,163.1175,2024-01-28,20:23,Ewallet,130.49,5.844534,9.5335,6.3
+283778722,C,Rodrigues de da Conceição,Normal,Feminino,Esportes e viagens,18.7,8,7.48,157.08,2024-01-29,15:48,Cartão de crédito,125.66,3.736824,5.8698,6.8
+770166873,B,das Neves,Normal,Feminino,Saúde e beleza,83.01,5,20.7525,435.8025,2024-01-24,07:44,Cartão de crédito,348.64,3.621999,15.7848,6.5
+490833589,C,Vieira de Castro,Membro,Feminino,Esportes e viagens,69.42,7,24.297,510.237,2024-01-23,07:33,Dinheiro,408.19,6.246218,31.8705,6.3
+75397668,B,Novaes,Normal,Masculino,Eletrônicos,43.55,8,17.42,365.82,2024-01-14,11:08,Dinheiro,292.66,4.567818,16.71,4.4
+513032964,B,Vieira,Normal,Masculino,Casa e estilo de vida,43.34,9,19.503,409.563,2024-01-06,04:37,Cartão de crédito,327.65,3.781449,15.4874,7.6
+406991864,A,Teixeira do Amparo,Normal,Feminino,Eletrônicos,25.38,1,1.269,26.649,2024-01-28,12:21,Dinheiro,21.32,4.217624,1.124,8.6
+510029030,B,Rodrigues de Fernandes,Membro,Feminino,Saúde e beleza,66.3,10,33.15,696.15,2024-02-04,12:26,Ewallet,556.92,4.330746,30.1485,8.9
+422715787,C,Cardoso,Normal,Masculino,Eletrônicos,84.93,6,25.479,535.059,2024-01-17,02:09,Cartão de crédito,428.05,5.34596,28.604,7.0
+318520367,C,Carvalho,Membro,Masculino,Eletrônicos,22.0,8,8.8,184.8,2024-02-06,16:28,Ewallet,147.84,5.589847,10.33,6.2
+7850876,B,Souza,Membro,Masculino,Esportes e viagens,11.63,3,1.7445,36.6345,2024-01-31,09:58,Cartão de crédito,29.31,3.941191,1.4438,8.9
+34315936,C,Nunes,Normal,Masculino,Alimentos e bebidas,11.52,5,2.88,60.48,2024-02-02,13:44,Ewallet,48.38,3.514752,2.1257,5.2
+831466119,B,Jesus,Normal,Feminino,Casa e estilo de vida,95.58,2,9.558,200.718,2024-01-23,08:18,Dinheiro,160.57,5.51955,11.0787,8.2
+119207459,C,Oliveira de Goiás,Normal,Feminino,Alimentos e bebidas,61.8,5,15.45,324.45,2024-02-06,09:37,Cartão de crédito,259.56,4.377869,14.204,4.6
+590224514,B,Viana de Oliveira,Normal,Masculino,Eletrônicos,89.43,8,35.772,751.212,2024-01-22,05:40,Cartão de crédito,600.97,6.839806,51.3814,5.7
+934757697,A,Teixeira,Normal,Masculino,Casa e estilo de vida,75.0,1,3.75,78.75,2024-01-11,22:17,Ewallet,63.0,6.55003,5.1581,5.3
+103720039,A,Martins,Membro,Feminino,Alimentos e bebidas,96.52,2,9.652,202.692,2024-01-27,18:18,Cartão de crédito,162.15,4.280728,8.6767,6.9
+90916529,C,Alves,Normal,Feminino,Esportes e viagens,82.62,5,20.655,433.755,2024-02-04,13:18,Cartão de crédito,347.0,3.569832,15.4843,5.8
+915063789,B,Sales,Normal,Masculino,Esportes e viagens,54.98,6,16.494,346.374,2024-02-06,02:47,Cartão de crédito,277.1,7.807627,27.0436,6.5
+385263399,A,Pires do Amparo,Membro,Feminino,Esportes e viagens,25.91,5,6.4775,136.0275,2024-02-08,21:07,Ewallet,108.82,4.1062,5.5856,4.7
+816494796,A,Ramos,Normal,Masculino,Casa e estilo de vida,89.28,3,13.392,281.232,2024-01-17,07:53,Ewallet,224.99,5.715044,16.0725,6.8
+748077987,C,Viana,Normal,Masculino,Eletrônicos,94.52,3,14.178,297.738,2024-01-28,09:42,Ewallet,238.19,5.61291,16.7118,5.1
+482896474,B,da Paz das Pedras,Membro,Masculino,Eletrônicos,51.9,4,10.38,217.98,2024-01-24,20:24,Cartão de crédito,174.38,4.584334,9.9929,7.3
+495927146,B,Nunes do Campo,Normal,Feminino,Eletrônicos,12.93,1,0.6465,13.5765,2024-01-30,14:12,Cartão de crédito,10.86,3.848346,0.5225,5.2
+126424045,A,Almeida de Goiás,Membro,Feminino,Eletrônicos,34.65,3,5.1975,109.1475,2024-01-15,14:28,Dinheiro,87.32,4.486514,4.8969,6.0
+567517084,A,Aragão dos Dourados,Normal,Feminino,Alimentos e bebidas,65.02,3,9.753,204.813,2024-02-06,20:34,Ewallet,163.85,3.816007,7.8157,8.1
+783253777,B,Carvalho da Serra,Normal,Masculino,Casa e estilo de vida,26.91,7,9.4185,197.7885,2024-01-03,09:05,Cartão de crédito,158.23,4.059576,8.0294,8.6
+322641126,C,da Paz,Membro,Masculino,Eletrônicos,72.03,7,25.2105,529.4205,2024-01-20,04:46,Dinheiro,423.54,4.415363,23.3758,5.0
+118555887,B,da Rosa da Mata,Normal,Masculino,Saúde e beleza,87.67,4,17.534,368.214,2024-01-08,05:18,Cartão de crédito,294.57,3.359232,12.3692,5.9
+616691482,B,Dias,Normal,Masculino,Casa e estilo de vida,14.83,4,2.966,62.286,2024-01-13,10:26,Dinheiro,49.83,5.394719,3.3602,5.6
+944063733,C,Gonçalves do Galho,Membro,Feminino,Alimentos e bebidas,61.39,3,9.2085,193.3785,2024-01-19,23:15,Dinheiro,154.7,4.760691,9.2062,4.9
+553676521,A,da Costa,Membro,Masculino,Saúde e beleza,64.94,7,22.729,477.309,2024-01-01,01:42,Ewallet,381.85,6.265306,29.9049,7.0
+729896772,C,Silveira Grande,Membro,Masculino,Esportes e viagens,24.92,5,6.23,130.83,2024-01-13,11:49,Ewallet,104.66,7.347276,9.6124,7.6
+874960328,B,Rodrigues da Serra,Normal,Feminino,Saúde e beleza,19.41,8,7.764,163.044,2024-02-09,17:43,Ewallet,130.44,5.145495,8.3894,7.2
+509576554,B,Santos,Normal,Feminino,Saúde e beleza,19.43,7,6.8005,142.8105,2024-01-08,06:29,Ewallet,114.25,4.016535,5.736,8.7
+212395901,C,Vieira Paulista,Membro,Masculino,Esportes e viagens,51.41,9,23.1345,485.8245,2024-01-01,10:39,Cartão de crédito,388.66,7.319847,35.5616,5.9
+159330775,A,da Luz de Goiás,Normal,Masculino,Esportes e viagens,12.0,9,5.4,113.4,2024-01-28,08:15,Cartão de crédito,90.72,3.359874,3.8101,6.1
+401537147,C,Dias de Correia,Normal,Masculino,Eletrônicos,83.69,1,4.1845,87.8745,2024-01-23,07:49,Dinheiro,70.3,6.641161,5.8359,9.0
+52578466,A,Jesus do Galho,Normal,Masculino,Eletrônicos,70.45,10,35.225,739.725,2024-01-11,01:40,Cartão de crédito,591.78,3.437401,25.4273,8.4
+239214620,B,Oliveira,Normal,Masculino,Casa e estilo de vida,93.7,8,37.48,787.08,2024-01-13,10:09,Dinheiro,629.66,7.464052,58.7481,5.2
+707119541,B,Monteiro,Membro,Feminino,Saúde e beleza,45.81,10,22.905,481.005,2024-01-31,06:33,Dinheiro,384.8,3.65635,17.5872,5.0
+838056857,A,Jesus,Normal,Feminino,Alimentos e bebidas,13.44,10,6.72,141.12,2024-01-18,22:48,Ewallet,112.9,3.772271,5.3234,5.1
+315040247,B,Oliveira de Peixoto,Membro,Masculino,Saúde e beleza,87.77,3,13.1655,276.4755,2024-01-11,03:33,Cartão de crédito,221.18,6.117753,16.9141,8.8
+598904516,C,Ferreira de Minas,Membro,Feminino,Casa e estilo de vida,20.47,7,7.1645,150.4545,2024-01-15,06:38,Cartão de crédito,120.36,6.032326,9.0759,6.5
+628684848,A,Cunha de Martins,Normal,Masculino,Saúde e beleza,81.82,3,12.273,257.733,2024-01-30,04:34,Ewallet,206.19,3.302316,8.5112,6.6
+860499064,C,Correia de Jesus,Normal,Masculino,Alimentos e bebidas,17.2,10,8.6,180.6,2024-02-05,00:24,Ewallet,144.48,7.557739,13.6493,8.2
+688711988,A,Jesus de Goiás,Membro,Feminino,Esportes e viagens,49.97,2,4.997,104.937,2024-02-10,09:21,Dinheiro,83.95,5.801253,6.0877,5.5
+477893398,B,Gomes,Normal,Feminino,Eletrônicos,83.19,9,37.4355,786.1455,2024-01-15,15:11,Ewallet,628.92,5.622486,44.2009,7.8
+491724425,B,Pires da Prata,Normal,Feminino,Casa e estilo de vida,85.66,2,8.566,179.886,2024-01-28,09:06,Dinheiro,143.91,4.278659,7.6967,7.7
+884562211,A,Porto Alegre,Normal,Feminino,Casa e estilo de vida,83.41,8,33.364,700.644,2024-01-30,19:09,Ewallet,560.52,5.937526,41.6009,7.9
+542479772,A,Caldeira,Membro,Masculino,Eletrônicos,66.4,2,6.64,139.44,2024-01-14,10:04,Dinheiro,111.55,6.369386,8.8815,7.7
+121116922,C,Campos,Membro,Masculino,Saúde e beleza,35.98,3,5.397,113.337,2024-01-23,19:07,Dinheiro,90.67,4.122009,4.6718,4.3
+996657981,A,Rezende de Barros,Membro,Masculino,Saúde e beleza,80.41,3,12.0615,253.2915,2024-01-29,11:09,Ewallet,202.63,3.268994,8.2801,8.4
+168247985,B,Pires das Flores,Normal,Feminino,Esportes e viagens,77.98,2,7.798,163.758,2024-01-14,04:28,Ewallet,131.01,5.79647,9.4922,6.0
+312392505,A,Ferreira do Campo,Membro,Feminino,Alimentos e bebidas,14.62,2,1.462,30.702,2024-01-04,14:04,Dinheiro,24.56,3.843994,1.1802,6.5
+106066834,B,da Mota da Serra,Normal,Masculino,Alimentos e bebidas,70.76,8,28.304,594.384,2024-01-18,12:24,Cartão de crédito,475.51,7.340942,43.6334,6.5
+557981911,A,Ramos de Viana,Membro,Masculino,Alimentos e bebidas,74.55,3,11.1825,234.8325,2024-01-15,18:51,Ewallet,187.87,4.589821,10.7784,6.4
+202832295,A,Moraes de da Cruz,Membro,Feminino,Esportes e viagens,39.42,6,11.826,248.346,2024-01-03,21:23,Dinheiro,198.68,6.175744,15.3372,5.0
+68585843,B,Aragão,Normal,Feminino,Casa e estilo de vida,24.75,1,1.2375,25.9875,2024-02-08,19:40,Dinheiro,20.79,4.156539,1.0802,4.7
+843792130,C,Lima da Mata,Membro,Masculino,Eletrônicos,46.61,1,2.3305,48.9405,2024-01-24,15:59,Cartão de crédito,39.15,5.900164,2.8876,4.5
+718260041,A,Nogueira,Normal,Masculino,Saúde e beleza,65.25,6,19.575,411.075,2024-02-09,01:09,Cartão de crédito,328.86,3.451928,14.19,8.1
+500899075,A,Campos,Normal,Feminino,Alimentos e bebidas,35.6,4,7.12,149.52,2024-01-13,00:53,Dinheiro,119.62,5.743977,8.5884,5.6
+482912285,A,Viana,Membro,Feminino,Eletrônicos,48.93,1,2.4465,51.3765,2024-01-19,21:04,Dinheiro,41.1,3.741858,1.9224,4.1
+893836950,A,Rodrigues,Normal,Masculino,Eletrônicos,53.13,5,13.2825,278.9325,2024-01-29,02:22,Dinheiro,223.15,5.579136,15.562,7.8
+561816686,A,das Neves,Membro,Masculino,Casa e estilo de vida,70.13,6,21.039,441.819,2024-02-08,13:22,Ewallet,353.46,4.847556,21.4174,4.5
+381830555,A,Castro,Normal,Masculino,Casa e estilo de vida,87.69,9,39.4605,828.6705,2024-02-06,03:47,Ewallet,662.94,5.36054,44.4212,6.2
+224855518,C,Freitas de Ferreira,Membro,Masculino,Alimentos e bebidas,62.53,7,21.8855,459.5955,2024-01-16,11:49,Ewallet,367.68,6.422217,29.5162,6.1
+535301722,B,Nascimento,Normal,Masculino,Saúde e beleza,15.26,7,5.341,112.161,2024-01-12,18:41,Ewallet,89.73,6.473155,7.2604,7.4
+164820401,C,da Cunha das Pedras,Normal,Masculino,Alimentos e bebidas,46.52,6,13.956,293.076,2024-01-22,17:37,Ewallet,234.46,6.075837,17.8068,7.7
+860534475,A,Moura das Pedras,Normal,Masculino,Esportes e viagens,85.45,7,29.9075,628.0575,2024-01-06,12:13,Dinheiro,502.45,3.190925,20.0408,8.0
+993323711,B,Cavalcanti,Normal,Masculino,Esportes e viagens,29.96,3,4.494,94.374,2024-01-14,13:15,Cartão de crédito,75.5,7.803503,7.3645,7.5
+495660530,A,Moura da Mata,Membro,Feminino,Eletrônicos,14.23,2,1.423,29.883,2024-01-03,00:53,Dinheiro,23.91,4.298733,1.2846,4.9
+443883127,B,Moura,Membro,Masculino,Casa e estilo de vida,13.98,5,3.495,73.395,2024-01-27,05:40,Ewallet,58.72,6.024477,4.4217,4.1
+477652458,B,Gonçalves Verde,Normal,Masculino,Saúde e beleza,80.15,2,8.015,168.315,2024-01-07,17:52,Dinheiro,134.65,3.660718,6.1615,7.2
+448696992,A,Souza,Normal,Masculino,Alimentos e bebidas,57.22,8,22.888,480.648,2024-01-31,17:10,Cartão de crédito,384.52,5.208906,25.0365,8.2
+375988356,A,Cardoso,Normal,Masculino,Casa e estilo de vida,43.28,10,21.64,454.44,2024-01-11,03:59,Dinheiro,363.55,4.277117,19.4369,5.5
+940712467,B,Duarte,Membro,Feminino,Alimentos e bebidas,32.24,5,8.06,169.26,2024-01-04,10:41,Ewallet,135.41,3.581862,6.0627,7.3
+967776574,B,Costa,Normal,Masculino,Saúde e beleza,61.0,5,15.25,320.25,2024-01-09,03:40,Dinheiro,256.2,3.477532,11.1368,8.2
+24598407,B,Ramos,Membro,Masculino,Alimentos e bebidas,43.61,5,10.9025,228.9525,2024-01-15,08:18,Cartão de crédito,183.16,3.564496,8.161,6.6
+535767755,B,Viana,Membro,Masculino,Esportes e viagens,45.43,2,4.543,95.403,2024-01-28,20:19,Cartão de crédito,76.32,4.073804,3.8865,7.7
+305328911,B,Campos,Normal,Masculino,Casa e estilo de vida,66.43,6,19.929,418.509,2024-01-02,01:59,Ewallet,334.81,5.599227,23.4333,6.4
+690630537,A,Farias,Normal,Feminino,Alimentos e bebidas,76.91,2,7.691,161.511,2024-01-15,06:38,Dinheiro,129.21,5.798586,9.3654,6.4
+794344364,C,das Neves,Membro,Feminino,Saúde e beleza,85.99,9,38.6955,812.6055,2024-01-11,08:20,Dinheiro,650.08,4.398603,35.7433,7.9
+11128907,B,da Cruz das Flores,Membro,Feminino,Casa e estilo de vida,79.21,7,27.7235,582.1935,2024-02-09,01:31,Dinheiro,465.75,4.578453,26.6555,8.0
+820042151,B,Carvalho de Lima,Membro,Masculino,Esportes e viagens,73.4,7,25.69,539.49,2024-01-07,22:23,Ewallet,431.59,5.801164,31.2967,4.4
+937251182,A,Lopes da Serra,Normal,Feminino,Esportes e viagens,15.94,1,0.797,16.737,2024-01-07,18:34,Ewallet,13.39,5.724081,0.958,4.4
+903316064,C,Castro do Galho,Normal,Feminino,Eletrônicos,85.22,5,21.305,447.405,2024-01-16,21:44,Ewallet,357.92,7.586213,33.9411,5.1
+236103050,B,Gonçalves do Norte,Membro,Masculino,Esportes e viagens,37.78,5,9.445,198.345,2024-02-07,19:44,Dinheiro,158.68,3.860949,7.658,6.8
+369068133,B,Porto Grande,Normal,Masculino,Eletrônicos,83.61,8,33.444,702.324,2024-01-01,18:15,Cartão de crédito,561.86,4.613051,32.3986,4.1
+900518599,A,Lima,Membro,Feminino,Alimentos e bebidas,27.61,1,1.3805,28.9905,2024-01-27,08:32,Cartão de crédito,23.19,3.018318,0.875,8.9
+720537471,A,Costa,Membro,Feminino,Eletrônicos,33.18,4,6.636,139.356,2024-01-10,04:06,Cartão de crédito,111.48,4.943418,6.8889,7.2
+561877558,B,Freitas do Galho,Membro,Feminino,Saúde e beleza,98.49,8,39.396,827.316,2024-01-16,17:28,Dinheiro,661.85,5.639581,46.6572,4.8
+699792896,C,Cardoso das Pedras,Normal,Feminino,Esportes e viagens,84.4,5,21.1,443.1,2024-01-05,02:03,Ewallet,354.48,3.360148,14.8888,5.7
+183748850,C,Gomes,Membro,Feminino,Eletrônicos,82.16,10,41.08,862.68,2024-01-01,19:28,Ewallet,690.14,3.862888,33.3244,8.3
+87604392,C,Castro da Serra,Membro,Masculino,Eletrônicos,99.52,1,4.976,104.496,2024-02-10,07:47,Cartão de crédito,83.6,7.946137,8.3034,8.1
+520669755,C,da Rocha de Carvalho,Normal,Masculino,Eletrônicos,80.33,6,24.099,506.079,2024-01-05,20:48,Ewallet,404.86,4.211681,21.3144,4.5
+890234470,C,Gonçalves do Norte,Membro,Masculino,Eletrônicos,46.13,10,23.065,484.365,2024-01-19,04:38,Dinheiro,387.49,7.144068,34.6034,5.9
+994873764,A,Farias,Membro,Feminino,Saúde e beleza,80.96,4,16.192,340.032,2024-01-23,00:28,Dinheiro,272.03,5.511862,18.7421,7.3
+121650627,C,Lima das Flores,Normal,Feminino,Casa e estilo de vida,94.53,2,9.453,198.513,2024-01-26,18:35,Dinheiro,158.81,5.243439,10.4089,6.1
+734653570,C,Nogueira,Normal,Masculino,Casa e estilo de vida,90.29,10,45.145,948.045,2024-02-07,02:24,Cartão de crédito,758.44,6.4257,60.9185,8.1
+82579594,C,Martins de Moraes,Membro,Feminino,Eletrônicos,35.72,2,3.572,75.012,2024-01-11,02:24,Ewallet,60.01,5.390593,4.0436,5.6
+395597157,A,Viana,Membro,Masculino,Alimentos e bebidas,82.67,1,4.1335,86.8035,2024-01-28,09:33,Dinheiro,69.44,6.686431,5.8041,6.2
+582732118,A,Pires,Membro,Feminino,Alimentos e bebidas,60.41,7,21.1435,444.0135,2024-01-30,21:48,Ewallet,355.21,7.765286,34.4789,4.9
+789340734,A,da Cruz,Membro,Feminino,Esportes e viagens,42.25,2,4.225,88.725,2024-01-15,10:08,Ewallet,70.98,5.420264,4.8091,7.0
+193124901,A,Porto dos Dourados,Normal,Masculino,Esportes e viagens,71.11,1,3.5555,74.6655,2024-01-31,10:51,Cartão de crédito,59.73,3.959399,2.9563,8.3
+188635393,A,Porto do Oeste,Normal,Feminino,Eletrônicos,56.31,8,22.524,473.004,2024-02-10,11:47,Ewallet,378.4,7.537774,35.654,6.2
+482557886,B,Moura dos Dourados,Normal,Feminino,Eletrônicos,64.54,4,12.908,271.068,2024-01-18,09:35,Dinheiro,216.85,4.521705,12.2569,4.5
+587141898,A,Peixoto,Membro,Masculino,Esportes e viagens,34.58,4,6.916,145.236,2024-01-04,22:21,Cartão de crédito,116.19,3.060977,4.4456,8.1
+547143040,C,Oliveira de Goiás,Membro,Feminino,Alimentos e bebidas,38.58,8,15.432,324.072,2024-01-07,20:51,Cartão de crédito,259.26,5.076082,16.4502,7.0
+7866673,C,Carvalho do Norte,Normal,Feminino,Esportes e viagens,84.64,3,12.696,266.616,2024-01-29,00:02,Dinheiro,213.29,7.75301,20.6708,7.1
+976761049,C,Viana de Ramos,Membro,Feminino,Eletrônicos,94.08,10,47.04,987.84,2024-02-09,21:04,Cartão de crédito,790.27,6.81645,67.3356,6.1
+910297610,A,Rodrigues,Normal,Masculino,Alimentos e bebidas,48.06,5,12.015,252.315,2024-02-01,02:25,Cartão de crédito,201.85,7.670425,19.3536,4.5
+910894046,B,da Cunha,Membro,Masculino,Casa e estilo de vida,12.55,10,6.275,131.775,2024-01-12,18:35,Dinheiro,105.42,4.283769,5.6449,8.9
+19119244,A,Souza das Flores,Normal,Feminino,Saúde e beleza,62.95,5,15.7375,330.4875,2024-01-16,16:59,Dinheiro,264.39,7.186532,23.7506,7.8
+518806281,C,da Cunha do Galho,Normal,Masculino,Alimentos e bebidas,99.97,8,39.988,839.748,2024-01-10,10:03,Ewallet,671.8,6.652291,55.8625,7.7
+267862902,A,Farias de Minas,Normal,Masculino,Eletrônicos,76.17,3,11.4255,239.9355,2024-01-17,08:24,Ewallet,191.95,5.365496,12.8737,6.6
+889991632,B,Costa,Normal,Feminino,Alimentos e bebidas,56.91,4,11.382,239.022,2024-02-07,10:14,Dinheiro,191.22,7.384576,17.6508,8.3
+595063723,A,Azevedo do Sul,Membro,Masculino,Eletrônicos,65.79,10,32.895,690.795,2024-01-29,06:41,Ewallet,552.64,3.908146,26.9973,7.5
+556404613,C,Ribeiro de da Rocha,Normal,Feminino,Esportes e viagens,65.26,4,13.052,274.092,2024-02-03,08:01,Ewallet,219.27,6.979515,19.1303,7.2
+859783459,B,Novaes do Campo,Normal,Masculino,Saúde e beleza,58.74,8,23.496,493.416,2024-01-19,13:30,Cartão de crédito,394.73,3.260062,16.0857,4.4
+852208,C,Rezende,Membro,Feminino,Saúde e beleza,57.88,8,23.152,486.192,2024-02-10,05:15,Dinheiro,388.95,3.44292,16.7392,5.6
+780131706,C,Moraes da Mata,Normal,Masculino,Eletrônicos,59.95,7,20.9825,440.6325,2024-01-10,09:25,Ewallet,352.51,6.424157,28.3069,4.3
+687736667,C,Sales do Sul,Normal,Masculino,Saúde e beleza,51.21,7,17.9235,376.3935,2024-01-22,01:48,Cartão de crédito,301.11,4.413332,16.6115,6.9
+20305330,C,Dias de das Neves,Normal,Masculino,Esportes e viagens,63.82,3,9.573,201.033,2024-01-03,10:22,Cartão de crédito,160.83,6.682705,13.4344,5.5
+507025190,A,Dias de Costela,Membro,Masculino,Esportes e viagens,93.86,10,46.93,985.53,2024-02-10,12:26,Dinheiro,788.42,5.244159,51.6828,4.4
+826013598,A,da Costa do Campo,Normal,Feminino,Eletrônicos,12.01,5,3.0025,63.0525,2024-01-08,14:03,Ewallet,50.44,7.749815,4.8865,4.6
+814527892,B,Peixoto,Membro,Masculino,Casa e estilo de vida,86.94,1,4.347,91.287,2024-01-15,14:19,Ewallet,73.03,6.635935,6.0577,8.9
+462810050,A,Novaes,Normal,Feminino,Esportes e viagens,89.75,4,17.95,376.95,2024-01-08,20:45,Ewallet,301.56,5.650848,21.3009,5.2
+108222199,A,Costela,Normal,Masculino,Eletrônicos,88.07,10,44.035,924.735,2024-01-30,16:50,Dinheiro,739.79,3.044677,28.1552,7.8
+548645256,A,da Cruz da Praia,Membro,Masculino,Saúde e beleza,77.01,3,11.5515,242.5815,2024-01-10,18:44,Ewallet,194.07,7.0407,17.0794,5.8
+72060185,C,Porto,Normal,Feminino,Saúde e beleza,24.34,10,12.17,255.57,2024-01-01,13:29,Dinheiro,204.46,3.443318,8.8001,6.9
+218130779,A,Fogaça,Membro,Feminino,Casa e estilo de vida,39.18,10,19.59,411.39,2024-01-23,05:46,Cartão de crédito,329.11,6.974826,28.6937,5.4
+993467855,A,Pinto,Normal,Feminino,Alimentos e bebidas,13.81,5,3.4525,72.5025,2024-01-21,16:28,Dinheiro,58.0,5.323592,3.8597,7.9
+597209983,B,Castro,Membro,Masculino,Alimentos e bebidas,46.02,3,6.903,144.963,2024-01-16,09:58,Dinheiro,115.97,6.032902,8.7455,5.7
+630439126,C,Costa,Normal,Masculino,Casa e estilo de vida,13.93,2,1.393,29.253,2024-01-06,03:25,Dinheiro,23.4,6.619651,1.9364,7.7
+3934757,B,Vieira da Serra,Normal,Masculino,Esportes e viagens,78.56,4,15.712,329.952,2024-01-08,05:03,Ewallet,263.96,5.194707,17.14,4.4
+992110633,C,Nogueira Grande,Normal,Masculino,Saúde e beleza,94.34,8,37.736,792.456,2024-01-21,10:55,Ewallet,633.96,6.099001,48.3319,7.7
+407617040,B,Castro,Normal,Feminino,Saúde e beleza,74.92,4,14.984,314.664,2024-02-06,03:49,Cartão de crédito,251.73,7.300375,22.9717,8.7
+486954024,C,Monteiro,Normal,Feminino,Alimentos e bebidas,80.41,8,32.164,675.444,2024-01-10,07:11,Dinheiro,540.36,3.07031,20.7382,4.1
+445196152,B,Mendes de Aragão,Membro,Masculino,Alimentos e bebidas,10.6,8,4.24,89.04,2024-01-11,23:20,Cartão de crédito,71.23,3.494139,3.1112,7.8
+377300662,A,Martins,Normal,Masculino,Alimentos e bebidas,20.79,8,8.316,174.636,2024-02-10,23:26,Ewallet,139.71,3.670332,6.4097,7.2
+528793294,A,Pinto,Membro,Masculino,Esportes e viagens,39.79,3,5.9685,125.3385,2024-01-20,01:51,Ewallet,100.27,5.975506,7.4896,7.4
+17482892,A,da Luz,Membro,Feminino,Casa e estilo de vida,43.51,8,17.404,365.484,2024-01-25,09:54,Ewallet,292.39,5.464635,19.9724,6.7
+607266821,C,Nascimento,Membro,Masculino,Esportes e viagens,45.68,4,9.136,191.856,2024-02-02,20:20,Dinheiro,153.48,5.448322,10.4529,6.6
+332263884,A,Costela de da Luz,Membro,Masculino,Eletrônicos,29.58,2,2.958,62.118,2024-02-06,10:01,Ewallet,49.69,3.453307,2.1451,5.3
+47971801,C,Porto das Flores,Normal,Masculino,Esportes e viagens,74.92,10,37.46,786.66,2024-01-19,06:00,Dinheiro,629.33,4.388216,34.5203,7.8
+586907138,B,Aragão Alegre,Membro,Feminino,Eletrônicos,30.77,5,7.6925,161.5425,2024-01-20,09:37,Dinheiro,129.23,3.75518,6.0662,5.5
+62961958,A,Moraes do Norte,Normal,Feminino,Alimentos e bebidas,72.34,6,21.702,455.742,2024-01-03,11:32,Dinheiro,364.59,3.910885,17.8235,8.7
+665158897,C,Nogueira,Membro,Masculino,Alimentos e bebidas,36.26,9,16.317,342.657,2024-01-31,20:45,Ewallet,274.13,3.0496,10.4497,8.3
+511447698,B,Pires,Normal,Feminino,Eletrônicos,87.83,3,13.1745,276.6645,2024-01-24,23:30,Cartão de crédito,221.33,4.385725,12.1337,8.4
+343381035,C,Campos de Mendes,Normal,Feminino,Casa e estilo de vida,67.0,2,6.7,140.7,2024-01-05,19:19,Ewallet,112.56,5.908613,8.3134,6.6
+607846201,C,Lopes,Normal,Feminino,Eletrônicos,83.11,6,24.933,523.593,2024-01-29,12:51,Ewallet,418.87,4.95447,25.9413,7.8
+845249791,A,da Rosa,Membro,Feminino,Alimentos e bebidas,72.87,3,10.9305,229.5405,2024-02-10,11:38,Dinheiro,183.63,4.458718,10.2346,5.0
+58934119,C,Araújo,Normal,Feminino,Alimentos e bebidas,53.67,3,8.0505,169.0605,2024-02-02,13:54,Ewallet,135.25,6.097782,10.3089,5.5
+104913446,C,Campos Alegre,Normal,Masculino,Esportes e viagens,73.06,9,32.877,690.417,2024-01-29,08:45,Dinheiro,552.33,6.069997,41.9083,5.3
+133801963,B,Novaes Paulista,Membro,Masculino,Eletrônicos,88.81,6,26.643,559.503,2024-02-10,01:32,Dinheiro,447.6,4.591072,25.6872,7.6
+280543186,C,Almeida,Membro,Feminino,Esportes e viagens,91.99,6,27.597,579.537,2024-02-02,21:14,Dinheiro,463.63,3.890911,22.5493,4.4
+476242324,C,Araújo de Cardoso,Membro,Feminino,Saúde e beleza,63.14,5,15.785,331.485,2024-01-17,19:45,Dinheiro,265.19,5.223821,17.3162,4.6
+334445468,A,Costela de Goiás,Membro,Feminino,Saúde e beleza,70.32,9,31.644,664.524,2024-01-10,06:49,Dinheiro,531.62,5.636195,37.4539,6.3
+673269705,B,Rezende do Sul,Normal,Feminino,Saúde e beleza,98.82,1,4.941,103.761,2024-01-24,06:34,Ewallet,83.01,5.586431,5.7965,5.2
+782758981,A,Cunha de Rocha,Normal,Masculino,Saúde e beleza,99.53,3,14.9295,313.5195,2024-02-08,16:00,Ewallet,250.82,5.850193,18.3415,7.4
+847030274,C,da Paz de Correia,Normal,Feminino,Eletrônicos,53.95,9,24.2775,509.8275,2024-02-01,03:18,Dinheiro,407.86,7.031306,35.8475,4.5
+980547894,B,Viana,Membro,Masculino,Saúde e beleza,83.12,9,37.404,785.484,2024-01-22,10:03,Cartão de crédito,628.39,3.823837,30.0356,5.9
+952516133,C,Pereira,Normal,Feminino,Casa e estilo de vida,92.29,9,41.5305,872.1405,2024-01-24,04:08,Ewallet,697.71,4.281169,37.3378,6.6
+864639905,B,Gomes do Sul,Membro,Masculino,Esportes e viagens,17.69,4,3.538,74.298,2024-01-10,10:02,Cartão de crédito,59.44,7.569149,5.6237,8.6
+611850422,A,Pinto,Membro,Feminino,Alimentos e bebidas,72.58,7,25.403,533.463,2024-01-09,22:49,Dinheiro,426.77,7.980228,42.5716,7.8
+525197257,B,Oliveira,Normal,Masculino,Eletrônicos,18.79,5,4.6975,98.6475,2024-01-25,13:36,Ewallet,78.92,5.778839,5.7007,7.8
+197097847,A,da Cunha das Flores,Normal,Masculino,Eletrônicos,55.56,8,22.224,466.704,2024-01-15,14:15,Dinheiro,373.36,3.154455,14.722,4.7
+884391300,A,Moura do Norte,Membro,Masculino,Eletrônicos,18.34,4,3.668,77.028,2024-01-01,04:33,Ewallet,61.62,6.675407,5.1419,5.6
+214542057,C,Jesus das Pedras,Normal,Masculino,Esportes e viagens,39.13,8,15.652,328.692,2024-02-08,11:36,Dinheiro,262.95,6.436787,21.1572,6.4
+494612274,C,Ramos,Normal,Masculino,Esportes e viagens,55.38,1,2.769,58.149,2024-02-05,14:12,Cartão de crédito,46.52,7.865803,4.5739,8.7
+687747863,C,Fogaça da Mata,Membro,Masculino,Esportes e viagens,76.03,5,19.0075,399.1575,2024-01-16,02:05,Dinheiro,319.33,4.039963,16.1258,7.3
+595535043,A,Ribeiro Verde,Membro,Masculino,Eletrônicos,60.93,10,30.465,639.765,2024-02-07,02:16,Ewallet,511.81,3.327229,21.2864,4.9
+612970562,A,Novaes de da Mota,Membro,Masculino,Esportes e viagens,47.63,4,9.526,200.046,2024-01-30,08:03,Dinheiro,160.04,5.520323,11.0432,4.3
+744779779,B,da Mata,Normal,Feminino,Saúde e beleza,82.25,2,8.225,172.725,2024-01-26,19:08,Cartão de crédito,138.18,7.653151,13.2189,4.8
+994891910,C,Alves de Goiás,Membro,Masculino,Eletrônicos,21.72,2,2.172,45.612,2024-01-15,01:52,Cartão de crédito,36.49,6.535821,2.9811,5.8
+903088192,B,Nascimento,Membro,Masculino,Saúde e beleza,44.45,10,22.225,466.725,2024-01-02,17:30,Dinheiro,373.38,4.445203,20.7469,8.3
+616426482,C,Moura Grande,Membro,Feminino,Saúde e beleza,28.22,1,1.411,29.631,2024-01-21,03:06,Cartão de crédito,23.7,6.742367,1.9978,7.6
+522305127,C,da Mota,Membro,Masculino,Esportes e viagens,33.6,1,1.68,35.28,2024-02-07,08:06,Dinheiro,28.22,7.606744,2.6837,5.2
+635269843,A,Rodrigues,Normal,Feminino,Saúde e beleza,74.86,2,7.486,157.206,2024-01-10,01:37,Cartão de crédito,125.76,3.945545,6.2026,5.8
+959969525,B,Barros Grande,Membro,Feminino,Esportes e viagens,92.41,6,27.723,582.183,2024-02-03,16:54,Cartão de crédito,465.75,3.238446,18.8537,7.4
+755360187,B,Costa do Amparo,Normal,Masculino,Saúde e beleza,37.82,9,17.019,357.399,2024-02-07,01:08,Dinheiro,285.92,5.308114,18.9711,8.1
+61691074,C,Silva Alegre,Normal,Masculino,Esportes e viagens,12.8,7,4.48,94.08,2024-01-30,04:23,Dinheiro,75.26,6.701118,6.3044,8.9
+698677104,C,Melo da Praia,Membro,Feminino,Esportes e viagens,50.85,8,20.34,427.14,2024-01-24,19:39,Dinheiro,341.71,3.873461,16.5451,6.4
+103020785,B,da Rosa Paulista,Membro,Masculino,Saúde e beleza,64.02,10,32.01,672.21,2024-01-30,05:36,Ewallet,537.77,4.70601,31.6343,7.1
+322019327,C,Cunha,Membro,Masculino,Eletrônicos,69.96,2,6.996,146.916,2024-01-05,18:42,Dinheiro,117.53,3.927782,5.7705,8.9
+744179827,A,Dias,Normal,Masculino,Eletrônicos,77.64,10,38.82,815.22,2024-02-10,18:08,Ewallet,652.18,6.453238,52.6081,4.7
+544973489,B,Cardoso,Membro,Feminino,Casa e estilo de vida,90.77,10,45.385,953.085,2024-01-31,19:19,Dinheiro,762.47,6.191809,59.0132,5.9
+287521242,A,da Luz da Praia,Normal,Feminino,Eletrônicos,85.43,1,4.2715,89.7015,2024-01-26,14:43,Ewallet,71.76,3.829427,3.4351,7.0
+419569116,B,Moraes,Membro,Masculino,Casa e estilo de vida,88.16,10,44.08,925.68,2024-01-12,00:21,Cartão de crédito,740.54,4.005809,37.081,5.4
+181978029,C,Pires Paulista,Membro,Feminino,Alimentos e bebidas,45.87,1,2.2935,48.1635,2024-02-08,06:35,Cartão de crédito,38.53,7.89987,3.8049,6.3
+106778097,B,Gomes,Membro,Masculino,Esportes e viagens,56.68,9,25.506,535.626,2024-01-21,01:08,Dinheiro,428.5,6.622392,35.4713,6.2
+826585812,C,Moraes,Membro,Feminino,Alimentos e bebidas,23.41,8,9.364,196.644,2024-01-02,04:55,Dinheiro,157.32,7.289099,14.3336,4.6
+176162315,B,Pinto da Praia,Membro,Feminino,Casa e estilo de vida,27.43,4,5.486,115.206,2024-01-26,17:35,Dinheiro,92.16,3.677135,4.2363,8.8
+585493542,B,da Rosa,Normal,Masculino,Casa e estilo de vida,48.98,4,9.796,205.716,2024-01-11,15:29,Cartão de crédito,164.57,3.982026,8.1917,7.6
+868857013,A,Novaes,Normal,Feminino,Eletrônicos,93.93,6,28.179,591.759,2024-01-13,10:50,Cartão de crédito,473.41,3.05022,18.05,5.9
+965767609,C,Moura,Membro,Feminino,Esportes e viagens,69.33,9,31.1985,655.1685,2024-01-19,16:22,Cartão de crédito,524.13,3.444202,22.5653,4.5
+961373038,B,da Cruz,Membro,Masculino,Saúde e beleza,44.58,5,11.145,234.045,2024-01-31,17:41,Dinheiro,187.24,6.596022,15.4377,6.0
+394301682,B,Moraes,Membro,Feminino,Saúde e beleza,36.76,1,1.838,38.598,2024-01-05,10:07,Dinheiro,30.88,7.366339,2.8433,8.9
+960310337,C,Barbosa de Pires,Membro,Masculino,Esportes e viagens,17.6,1,0.88,18.48,2024-01-22,21:18,Dinheiro,14.78,4.836631,0.8938,6.6
+992897772,C,Alves de Correia,Membro,Masculino,Saúde e beleza,14.06,10,7.03,147.63,2024-02-07,18:32,Ewallet,118.1,4.633009,6.8397,5.2
+453229317,B,Cavalcanti,Normal,Masculino,Alimentos e bebidas,47.84,1,2.392,50.232,2024-02-01,16:48,Dinheiro,40.19,4.289606,2.1548,6.2
+720020798,C,Peixoto de Barros,Membro,Masculino,Eletrônicos,51.49,7,18.0215,378.4515,2024-02-03,02:21,Ewallet,302.76,7.154342,27.0757,7.0
+264869208,B,Monteiro de Gonçalves,Membro,Feminino,Saúde e beleza,65.2,9,29.34,616.14,2024-01-12,18:44,Ewallet,492.91,7.811568,48.1302,5.5
+676879961,A,Rodrigues,Membro,Masculino,Casa e estilo de vida,44.72,5,11.18,234.78,2024-01-05,12:35,Cartão de crédito,187.82,4.658633,10.9375,5.6
+963359767,B,Araújo Alegre,Normal,Feminino,Eletrônicos,52.56,7,18.396,386.316,2024-01-02,06:56,Cartão de crédito,309.05,6.712539,25.9316,7.9
+434018113,B,Fernandes do Oeste,Membro,Masculino,Alimentos e bebidas,19.29,10,9.645,202.545,2024-01-09,15:11,Cartão de crédito,162.04,5.220903,10.5747,5.4
+822332738,A,Melo de Lopes,Membro,Masculino,Saúde e beleza,11.6,6,3.48,73.08,2024-01-07,05:58,Dinheiro,58.46,7.482078,5.4679,6.4
+895443728,B,Nunes Verde,Normal,Masculino,Eletrônicos,92.63,2,9.263,194.523,2024-01-08,22:41,Cartão de crédito,155.62,4.79566,9.3287,6.8
+701292827,A,Ferreira de Correia,Normal,Masculino,Saúde e beleza,50.19,10,25.095,526.995,2024-02-05,10:29,Dinheiro,421.6,3.212687,16.9307,6.7
+88862922,B,Caldeira de Castro,Membro,Feminino,Casa e estilo de vida,89.57,4,17.914,376.194,2024-02-06,00:27,Cartão de crédito,300.96,7.434742,27.9691,7.6
+65833971,C,Araújo,Membro,Masculino,Casa e estilo de vida,78.85,9,35.4825,745.1325,2024-01-30,09:07,Cartão de crédito,596.11,6.525091,48.6206,7.1
+303760717,A,Porto,Normal,Feminino,Eletrônicos,60.04,1,3.002,63.042,2024-01-22,11:04,Cartão de crédito,50.43,3.122779,1.9687,4.9
+527019531,A,Nascimento,Membro,Masculino,Esportes e viagens,36.08,7,12.628,265.188,2024-02-02,08:19,Dinheiro,212.15,7.395621,19.6123,7.1
+621023223,C,da Paz,Normal,Masculino,Casa e estilo de vida,63.56,8,25.424,533.904,2024-01-18,21:05,Cartão de crédito,427.12,7.44414,39.7446,5.9
+202961351,C,Campos,Normal,Masculino,Eletrônicos,78.02,5,19.505,409.605,2024-01-19,17:20,Dinheiro,327.68,3.00533,12.31,7.8
+809724498,A,Araújo,Normal,Feminino,Saúde e beleza,80.26,9,36.117,758.457,2024-01-24,04:37,Cartão de crédito,606.77,6.671387,50.5996,4.3
+582313226,B,Castro,Normal,Masculino,Eletrônicos,35.91,1,1.7955,37.7055,2024-02-01,09:27,Dinheiro,30.16,6.58504,2.4829,6.5
+970847600,C,Lima,Normal,Feminino,Saúde e beleza,86.95,1,4.3475,91.2975,2024-02-05,15:19,Cartão de crédito,73.04,5.021529,4.5845,5.0
+928273019,B,Gomes das Flores,Normal,Feminino,Eletrônicos,92.12,1,4.606,96.726,2024-01-22,12:16,Dinheiro,77.38,5.043537,4.8784,6.7
+735317472,A,Mendes da Serra,Membro,Feminino,Saúde e beleza,79.04,9,35.568,746.928,2024-01-18,20:38,Dinheiro,597.54,5.926934,44.2699,5.6
+404031692,B,Oliveira do Oeste,Normal,Masculino,Eletrônicos,57.86,3,8.679,182.259,2024-01-15,18:54,Cartão de crédito,145.81,3.744903,6.8254,4.2
+502963839,C,Santos,Normal,Masculino,Saúde e beleza,99.45,3,14.9175,313.2675,2024-01-30,09:08,Ewallet,250.61,6.552287,20.5262,5.0
+248841357,B,Peixoto Grande,Membro,Masculino,Saúde e beleza,56.66,5,14.165,297.465,2024-02-02,14:10,Dinheiro,237.97,3.610043,10.7386,6.8
+169218472,B,Alves,Membro,Masculino,Saúde e beleza,65.65,6,19.695,413.595,2024-01-14,20:37,Dinheiro,330.88,3.718593,15.3799,8.6
+976873213,C,Moraes,Normal,Masculino,Casa e estilo de vida,69.54,10,34.77,730.17,2024-02-01,00:15,Dinheiro,584.14,6.761812,49.3727,7.4
+487627223,B,Porto Paulista,Normal,Masculino,Esportes e viagens,69.46,10,34.73,729.33,2024-01-08,09:06,Dinheiro,583.46,7.174226,52.3238,8.5
+674013922,C,Pereira da Praia,Normal,Feminino,Alimentos e bebidas,13.52,8,5.408,113.568,2024-01-29,13:28,Dinheiro,90.85,4.622377,5.2495,5.2
+947552526,B,Almeida do Galho,Normal,Masculino,Saúde e beleza,39.02,10,19.51,409.71,2024-01-03,13:10,Ewallet,327.77,4.503761,18.4524,6.4
+818396666,C,Aragão,Normal,Feminino,Saúde e beleza,55.98,3,8.397,176.337,2024-02-05,15:31,Ewallet,141.07,4.501594,7.938,6.1
+228337581,A,Lopes,Normal,Masculino,Alimentos e bebidas,71.0,10,35.5,745.5,2024-01-24,12:33,Cartão de crédito,596.4,6.787696,50.6023,4.2
+263704769,B,Sales,Membro,Feminino,Esportes e viagens,88.26,7,30.891,648.711,2024-01-21,23:28,Ewallet,518.97,7.944833,51.539,5.6
+553580561,B,Freitas,Membro,Feminino,Casa e estilo de vida,63.39,6,19.017,399.357,2024-01-16,04:17,Cartão de crédito,319.49,5.997262,23.9505,6.0
+309764289,B,Ramos de da Conceição,Normal,Masculino,Alimentos e bebidas,41.25,10,20.625,433.125,2024-01-01,07:34,Dinheiro,346.5,5.43537,23.5419,6.3
+905147608,A,Cardoso,Normal,Feminino,Esportes e viagens,40.73,9,18.3285,384.8985,2024-01-17,13:28,Dinheiro,307.92,4.072348,15.6744,4.7
+315522922,C,Santos,Membro,Feminino,Saúde e beleza,59.55,9,26.7975,562.7475,2024-01-10,10:42,Ewallet,450.2,7.451261,41.9318,6.5
+32700743,C,Farias de Rodrigues,Membro,Feminino,Casa e estilo de vida,20.03,4,4.006,84.126,2024-02-10,00:34,Ewallet,67.3,3.817903,3.2118,6.7
+164077133,C,Ribeiro de das Neves,Membro,Feminino,Esportes e viagens,56.15,7,19.6525,412.7025,2024-01-15,05:59,Cartão de crédito,330.16,5.139359,21.2103,7.0
+196603672,A,Vieira de Minas,Normal,Masculino,Esportes e viagens,29.52,6,8.856,185.976,2024-01-06,07:21,Ewallet,148.78,3.555514,6.6124,8.4
+885703238,C,Moreira,Membro,Masculino,Casa e estilo de vida,35.33,9,15.8985,333.8685,2024-02-05,07:50,Ewallet,267.09,6.854751,22.8859,6.0
+825137897,C,da Costa,Normal,Masculino,Saúde e beleza,80.94,10,40.47,849.87,2024-01-31,01:43,Cartão de crédito,679.9,3.074306,26.1276,7.7
+609161988,A,Alves Alegre,Membro,Feminino,Alimentos e bebidas,34.57,3,5.1855,108.8955,2024-01-28,21:20,Ewallet,87.12,3.17915,3.462,5.3
+673299913,A,Porto de Minas,Membro,Feminino,Saúde e beleza,35.13,8,14.052,295.092,2024-01-17,07:45,Ewallet,236.07,5.852051,17.2689,6.6
+716293738,A,da Cruz,Normal,Feminino,Alimentos e bebidas,91.5,5,22.875,480.375,2024-02-10,10:15,Ewallet,384.3,7.699725,36.9876,4.7
+892199784,C,da Conceição,Normal,Masculino,Alimentos e bebidas,56.84,6,17.052,358.092,2024-01-05,22:41,Cartão de crédito,286.47,5.405946,19.3583,5.3
+469408658,B,Fogaça de Araújo,Membro,Feminino,Casa e estilo de vida,24.1,3,3.615,75.915,2024-01-24,13:11,Ewallet,60.73,4.686903,3.5581,7.2
+551261449,A,Araújo,Normal,Feminino,Saúde e beleza,66.25,4,13.25,278.25,2024-01-07,19:22,Ewallet,222.6,5.64257,15.7005,6.6
+721657856,B,Ferreira de Souza,Normal,Masculino,Eletrônicos,64.28,1,3.214,67.494,2024-01-04,19:28,Cartão de crédito,54.0,5.923186,3.9978,5.7
+73449262,B,Melo,Membro,Feminino,Eletrônicos,53.68,5,13.42,281.82,2024-01-18,08:27,Dinheiro,225.46,3.916747,11.0382,5.1
+409986459,A,Monteiro,Membro,Feminino,Casa e estilo de vida,21.52,6,6.456,135.576,2024-01-11,07:14,Cartão de crédito,108.46,4.15025,5.6267,6.1
+269275783,C,Oliveira Alegre,Normal,Masculino,Eletrônicos,68.36,2,6.836,143.556,2024-01-01,03:15,Ewallet,114.84,7.199944,10.336,5.8
+208332911,A,Duarte,Normal,Masculino,Esportes e viagens,56.1,2,5.61,117.81,2024-02-08,02:11,Ewallet,94.25,4.522147,5.3275,4.9
+743767751,A,Silveira,Membro,Feminino,Eletrônicos,27.23,6,8.169,171.549,2024-01-05,06:08,Cartão de crédito,137.24,4.385009,7.5224,5.8
+930813788,A,da Luz Alegre,Membro,Masculino,Saúde e beleza,94.59,3,14.1885,297.9585,2024-01-02,15:20,Ewallet,238.37,3.562187,10.6138,6.7
+785635269,A,Silveira,Normal,Feminino,Esportes e viagens,91.2,2,9.12,191.52,2024-01-25,19:33,Dinheiro,153.22,4.904231,9.3926,6.4
+825563897,C,Araújo,Membro,Masculino,Esportes e viagens,88.28,9,39.726,834.246,2024-01-25,13:48,Cartão de crédito,667.4,7.809429,65.1498,4.7
+511112098,C,Moreira de Porto,Membro,Feminino,Alimentos e bebidas,87.31,1,4.3655,91.6755,2024-01-13,01:26,Dinheiro,73.34,3.460559,3.1725,5.3
+485282973,C,Barros de Mendes,Normal,Masculino,Casa e estilo de vida,47.62,8,19.048,400.008,2024-02-07,01:48,Ewallet,320.01,3.93028,15.7214,7.6
+32385053,B,Barbosa,Normal,Masculino,Saúde e beleza,29.79,8,11.916,250.236,2024-01-27,16:45,Dinheiro,200.19,6.07561,15.2034,7.7
+417556143,A,Rezende,Normal,Feminino,Casa e estilo de vida,26.61,9,11.9745,251.4645,2024-01-02,08:05,Ewallet,201.17,7.872857,19.7974,4.3
+60346370,A,Souza de Goiás,Membro,Masculino,Alimentos e bebidas,26.63,3,3.9945,83.8845,2024-02-03,04:40,Cartão de crédito,67.11,5.742277,4.8169,6.6
+771297,A,Martins das Pedras,Membro,Masculino,Casa e estilo de vida,96.28,3,14.442,303.282,2024-01-29,02:33,Cartão de crédito,242.63,5.400345,16.3783,8.9
+480012325,B,Caldeira do Galho,Normal,Feminino,Casa e estilo de vida,59.3,8,23.72,498.12,2024-01-19,18:02,Ewallet,398.5,6.018238,29.978,6.4
+471527410,B,Cardoso,Normal,Feminino,Saúde e beleza,83.44,10,41.72,876.12,2024-02-06,00:18,Cartão de crédito,700.9,5.723874,50.148,4.7
+947294149,C,da Paz de Pereira,Membro,Masculino,Esportes e viagens,47.02,7,16.457,345.597,2024-01-16,23:59,Cartão de crédito,276.48,5.578758,19.28,8.9
+37583616,A,Moreira,Normal,Masculino,Alimentos e bebidas,84.82,9,38.169,801.549,2024-02-10,10:30,Cartão de crédito,641.24,7.547897,60.5001,4.9
+312319430,C,da Paz de Pires,Normal,Feminino,Saúde e beleza,44.76,5,11.19,234.99,2024-01-19,18:20,Cartão de crédito,187.99,5.844605,13.7342,8.2
+461426120,A,Peixoto,Membro,Feminino,Saúde e beleza,85.2,3,12.78,268.38,2024-01-25,09:11,Cartão de crédito,214.7,4.103326,11.0125,7.3
+950329915,C,Barbosa Verde,Membro,Masculino,Eletrônicos,92.47,8,36.988,776.748,2024-02-01,03:29,Cartão de crédito,621.4,4.272447,33.1861,6.7
+552750296,C,Ferreira,Membro,Masculino,Alimentos e bebidas,50.52,1,2.526,53.046,2024-02-04,20:44,Dinheiro,42.44,5.488621,2.9115,6.0
+970398228,A,da Mota do Sul,Membro,Feminino,Alimentos e bebidas,90.08,10,45.04,945.84,2024-01-06,05:23,Dinheiro,756.67,4.270197,40.3892,7.6
+89175160,C,Pinto de da Mata,Membro,Masculino,Alimentos e bebidas,34.67,8,13.868,291.228,2024-01-03,05:38,Dinheiro,232.98,4.644539,13.5262,5.7
+969031848,B,Barros,Normal,Masculino,Casa e estilo de vida,46.29,5,11.5725,243.0225,2024-02-02,04:58,Ewallet,194.42,3.577328,8.6937,6.9
+652702965,B,Ribeiro das Flores,Membro,Masculino,Alimentos e bebidas,32.97,6,9.891,207.711,2024-02-02,22:16,Dinheiro,166.17,3.480238,7.2288,5.5
+630504367,C,Cavalcanti do Norte,Membro,Masculino,Alimentos e bebidas,93.32,2,9.332,195.972,2024-01-10,19:19,Ewallet,156.78,6.110791,11.9754,8.9
+246019564,C,Dias do Amparo,Membro,Feminino,Casa e estilo de vida,43.69,5,10.9225,229.3725,2024-01-24,13:39,Ewallet,183.5,5.021735,11.5185,4.8
+206007395,C,Souza,Membro,Feminino,Alimentos e bebidas,27.06,4,5.412,113.652,2024-01-11,22:17,Dinheiro,90.92,3.605754,4.098,8.1
+846180462,C,Viana de da Conceição,Normal,Feminino,Saúde e beleza,37.03,9,16.6635,349.9335,2024-01-17,04:33,Dinheiro,279.95,6.279054,21.9725,8.5
+826788955,A,Araújo do Galho,Normal,Feminino,Saúde e beleza,62.9,2,6.29,132.09,2024-01-14,06:44,Dinheiro,105.67,5.501906,7.2675,4.2
+688339295,C,da Rocha Verde,Normal,Feminino,Eletrônicos,74.66,5,18.665,391.965,2024-01-17,05:39,Cartão de crédito,313.57,6.826129,26.756,6.5
+718568413,C,Correia,Membro,Masculino,Esportes e viagens,23.04,5,5.76,120.96,2024-01-22,03:33,Dinheiro,96.77,5.660584,6.847,8.3
+396079935,A,Pereira,Normal,Feminino,Alimentos e bebidas,76.55,3,11.4825,241.1325,2024-01-04,20:35,Ewallet,192.91,3.586123,8.6473,7.8
+707275227,B,Porto de Goiás,Membro,Feminino,Eletrônicos,10.17,3,1.5255,32.0355,2024-01-15,12:01,Dinheiro,25.63,3.182571,1.0196,8.2
+721359603,A,Araújo Verde,Normal,Masculino,Casa e estilo de vida,21.24,1,1.062,22.302,2024-01-11,16:50,Cartão de crédito,17.84,7.137108,1.5917,5.3
+264447216,C,da Cunha,Normal,Feminino,Eletrônicos,10.41,8,4.164,87.444,2024-01-13,12:50,Cartão de crédito,69.96,3.082097,2.6951,5.6
+903429906,C,Souza,Normal,Feminino,Saúde e beleza,82.77,1,4.1385,86.9085,2024-02-07,19:29,Dinheiro,69.53,5.946322,5.1679,6.1
+380460055,B,Moura das Flores,Membro,Masculino,Esportes e viagens,26.59,7,9.3065,195.4365,2024-02-09,01:33,Dinheiro,156.35,3.499427,6.8392,6.5
+231414053,A,da Cunha das Flores,Normal,Feminino,Casa e estilo de vida,41.49,7,14.5215,304.9515,2024-01-09,10:17,Ewallet,243.96,4.497769,13.716,5.4
+331322091,C,Viana,Membro,Masculino,Esportes e viagens,56.94,9,25.623,538.083,2024-01-03,10:01,Cartão de crédito,430.47,5.081113,27.3406,6.9
+867875858,A,Rezende de Nascimento,Membro,Masculino,Esportes e viagens,44.78,3,6.717,141.057,2024-01-07,15:33,Ewallet,112.85,3.004134,4.2375,6.1
+790528470,A,Nogueira,Normal,Feminino,Eletrônicos,14.27,6,4.281,89.901,2024-01-30,07:53,Ewallet,71.92,5.824878,5.2366,8.9
+840492210,B,Carvalho Verde,Membro,Feminino,Eletrônicos,65.46,2,6.546,137.466,2024-01-21,15:21,Dinheiro,109.97,5.88171,8.0854,8.5
+459366266,A,das Neves,Normal,Masculino,Esportes e viagens,11.58,8,4.632,97.272,2024-01-29,02:25,Cartão de crédito,77.82,5.092891,4.954,5.2
+219052551,A,Peixoto de Goiás,Membro,Feminino,Alimentos e bebidas,77.42,9,34.839,731.619,2024-01-03,03:49,Ewallet,585.3,7.831579,57.2973,4.0
+530051111,C,Rodrigues,Normal,Masculino,Alimentos e bebidas,70.87,10,35.435,744.135,2024-01-23,10:25,Ewallet,595.31,3.783127,28.1516,4.5
+758363137,A,Pinto Grande,Membro,Feminino,Esportes e viagens,67.37,5,16.8425,353.6925,2024-02-02,13:50,Ewallet,282.95,6.530682,23.0985,8.3
+732026510,B,Cardoso Alegre,Normal,Feminino,Esportes e viagens,87.0,7,30.45,639.45,2024-02-05,03:03,Cartão de crédito,511.56,3.956763,25.3015,8.2
+883904784,C,Vieira de Silva,Normal,Feminino,Saúde e beleza,97.47,8,38.988,818.748,2024-01-25,04:31,Cartão de crédito,655.0,4.587101,37.5568,6.1
+544932805,B,da Cunha de Goiás,Normal,Feminino,Casa e estilo de vida,69.49,6,20.847,437.787,2024-01-04,08:03,Dinheiro,350.23,6.5167,28.5293,5.1
+291094317,B,da Rosa,Normal,Masculino,Esportes e viagens,36.77,9,16.5465,347.4765,2024-01-01,11:37,Dinheiro,277.98,6.921854,24.0518,7.9
+710689655,A,Pereira,Membro,Masculino,Alimentos e bebidas,68.03,5,17.0075,357.1575,2024-01-24,07:34,Ewallet,285.73,7.494868,26.7685,4.0
+42833784,C,da Rocha,Membro,Feminino,Alimentos e bebidas,20.17,1,1.0085,21.1785,2024-02-09,21:13,Ewallet,16.94,4.280685,0.9066,8.3
+659440523,C,das Neves Grande,Normal,Feminino,Casa e estilo de vida,86.36,6,25.908,544.068,2024-01-18,19:05,Cartão de crédito,435.25,7.153585,38.9204,7.7
+922056884,C,Pires,Normal,Masculino,Casa e estilo de vida,83.59,7,29.2565,614.3865,2024-02-05,05:27,Cartão de crédito,491.51,7.935006,48.7516,8.0
+658078533,B,Fernandes,Membro,Masculino,Alimentos e bebidas,39.93,6,11.979,251.559,2024-01-14,23:09,Ewallet,201.25,3.21775,8.0945,6.6
+309686051,B,Cardoso,Normal,Feminino,Eletrônicos,14.74,2,1.474,30.954,2024-01-21,06:23,Ewallet,24.76,3.898257,1.2067,5.7
+484406562,B,Souza de Goiás,Membro,Masculino,Eletrônicos,41.02,6,12.306,258.426,2024-01-15,23:51,Cartão de crédito,206.74,5.404415,13.9664,4.3
+144084859,C,da Luz,Membro,Masculino,Alimentos e bebidas,93.47,5,23.3675,490.7175,2024-01-15,18:52,Ewallet,392.57,4.030395,19.7779,5.8
+450999015,A,Porto do Sul,Normal,Masculino,Casa e estilo de vida,91.54,8,36.616,768.936,2024-01-29,22:08,Cartão de crédito,615.15,5.906015,45.4135,5.9
+509835987,B,Aragão,Normal,Masculino,Casa e estilo de vida,32.9,3,4.935,103.635,2024-01-29,07:28,Cartão de crédito,82.91,5.26478,5.4562,6.4
+615253457,C,Fernandes,Normal,Feminino,Esportes e viagens,95.11,6,28.533,599.193,2024-01-19,09:25,Dinheiro,479.35,6.494364,38.9138,4.5
+273363703,C,Cardoso,Normal,Masculino,Casa e estilo de vida,40.5,9,18.225,382.725,2024-01-11,17:05,Dinheiro,306.18,3.104772,11.8827,4.7
+871864359,B,Fernandes das Flores,Membro,Masculino,Esportes e viagens,43.81,4,8.762,184.002,2024-01-28,01:11,Dinheiro,147.2,5.436111,10.0026,4.8
+769607027,B,da Mata dos Dourados,Membro,Masculino,Casa e estilo de vida,68.01,1,3.4005,71.4105,2024-02-07,18:36,Dinheiro,57.13,3.779517,2.699,7.5
+769588382,B,da Mota,Normal,Masculino,Eletrônicos,50.07,6,15.021,315.441,2024-01-07,16:19,Ewallet,252.35,5.462479,17.2309,4.2
+130060544,A,Duarte,Normal,Masculino,Esportes e viagens,79.24,10,39.62,832.02,2024-01-18,01:33,Cartão de crédito,665.62,7.272898,60.512,7.8
+434281681,B,Castro do Galho,Membro,Masculino,Casa e estilo de vida,29.8,8,11.92,250.32,2024-01-27,11:58,Cartão de crédito,200.26,3.713746,9.2962,5.3
+963393038,C,Carvalho Paulista,Membro,Masculino,Saúde e beleza,86.18,5,21.545,452.445,2024-02-05,07:13,Ewallet,361.96,4.451555,20.1408,4.7
+525336777,A,Viana,Normal,Masculino,Alimentos e bebidas,11.06,3,1.659,34.839,2024-01-30,09:14,Dinheiro,27.87,7.655651,2.6672,7.5
+149499019,C,Rezende,Membro,Masculino,Esportes e viagens,35.4,3,5.31,111.51,2024-02-02,15:13,Cartão de crédito,89.21,7.368535,8.2167,6.3
+573891995,A,Cunha das Flores,Normal,Feminino,Esportes e viagens,67.8,4,13.56,284.76,2024-01-16,04:09,Cartão de crédito,227.81,6.985578,19.8921,7.0
+718150285,B,Duarte,Membro,Feminino,Alimentos e bebidas,76.03,9,34.2135,718.4835,2024-01-14,03:29,Cartão de crédito,574.79,7.453928,53.5552,7.9
+428742987,B,Farias,Membro,Feminino,Eletrônicos,88.12,5,22.03,462.63,2024-01-14,22:26,Cartão de crédito,370.1,5.819107,26.9209,8.0
+285179234,A,Vieira,Normal,Feminino,Esportes e viagens,57.02,7,19.957,419.097,2024-01-10,20:02,Ewallet,335.28,6.981838,29.2607,6.3
+12594801,C,Melo,Membro,Feminino,Esportes e viagens,30.6,4,6.12,128.52,2024-01-09,11:47,Cartão de crédito,102.82,6.266441,8.0536,6.3
+38397857,C,Mendes de Carvalho,Normal,Masculino,Saúde e beleza,81.9,7,28.665,601.965,2024-02-06,09:43,Ewallet,481.57,6.165897,37.1165,4.1
+789855414,C,Peixoto de da Rocha,Membro,Feminino,Alimentos e bebidas,12.84,4,2.568,53.928,2024-01-23,12:08,Dinheiro,43.14,3.221639,1.7374,8.0
+721940524,C,Barbosa das Flores,Membro,Feminino,Alimentos e bebidas,75.81,2,7.581,159.201,2024-01-13,23:30,Dinheiro,127.36,4.412965,7.0255,8.8
+547609330,B,Azevedo da Prata,Membro,Feminino,Saúde e beleza,18.16,7,6.356,133.476,2024-01-16,19:22,Cartão de crédito,106.78,4.726896,6.3093,5.3
+884948308,A,da Mota de Gonçalves,Membro,Masculino,Saúde e beleza,97.24,8,38.896,816.816,2024-02-02,11:00,Ewallet,653.45,5.184295,42.3462,8.6
+710472836,A,Novaes,Membro,Feminino,Esportes e viagens,50.72,6,15.216,319.536,2024-02-02,13:10,Cartão de crédito,255.63,4.354828,13.9152,4.3
+588250301,B,Rodrigues do Galho,Membro,Masculino,Esportes e viagens,53.76,4,10.752,225.792,2024-01-23,23:42,Ewallet,180.63,5.537126,12.5024,4.5
+26485693,B,Moura de Goiás,Normal,Feminino,Saúde e beleza,13.88,9,6.246,131.166,2024-02-05,14:56,Ewallet,104.93,6.898444,9.0484,4.5
+673804361,C,Santos,Membro,Masculino,Eletrônicos,54.18,2,5.418,113.778,2024-02-04,08:49,Ewallet,91.02,4.086202,4.6492,5.3
+87219936,B,Alves,Membro,Masculino,Alimentos e bebidas,58.04,3,8.706,182.826,2024-02-05,19:00,Cartão de crédito,146.26,5.234218,9.5695,4.1
+476464931,C,Pereira,Normal,Masculino,Alimentos e bebidas,71.49,6,21.447,450.387,2024-01-03,19:27,Ewallet,360.31,4.964798,22.3608,4.4
+209052303,C,Aragão,Membro,Masculino,Eletrônicos,33.34,7,11.669,245.049,2024-01-27,07:15,Dinheiro,196.04,3.679211,9.0159,5.9
+366778466,A,Moura das Pedras,Membro,Masculino,Saúde e beleza,59.74,3,8.961,188.181,2024-01-07,07:47,Cartão de crédito,150.54,4.563023,8.5867,4.5
+87506313,B,da Mata,Membro,Feminino,Esportes e viagens,29.49,9,13.2705,278.6805,2024-02-08,10:04,Ewallet,222.94,5.531866,15.4162,6.7
+758922131,B,Moura,Membro,Masculino,Eletrônicos,92.38,6,27.714,581.994,2024-01-03,06:54,Ewallet,465.6,4.443028,25.8582,5.9
+395533442,A,Freitas de Minas,Normal,Feminino,Saúde e beleza,41.78,7,14.623,307.083,2024-01-23,01:57,Dinheiro,245.67,3.967686,12.1841,6.4
+989412310,C,Azevedo,Membro,Masculino,Alimentos e bebidas,32.05,8,12.82,269.22,2024-02-07,04:48,Dinheiro,215.38,4.936419,13.2898,8.7
+776761661,B,Cavalcanti,Normal,Masculino,Eletrônicos,86.86,8,34.744,729.624,2024-02-08,19:21,Dinheiro,583.7,3.215852,23.4636,8.5
+251572894,C,da Mota,Membro,Feminino,Casa e estilo de vida,73.04,8,29.216,613.536,2024-01-07,18:50,Ewallet,490.83,5.469865,33.5596,7.8
+935352558,C,Ribeiro do Galho,Normal,Masculino,Eletrônicos,58.76,2,5.876,123.396,2024-01-27,19:25,Cartão de crédito,98.72,5.553062,6.8523,6.3
+143861246,C,Farias,Membro,Masculino,Alimentos e bebidas,18.49,10,9.245,194.145,2024-01-20,09:43,Ewallet,155.32,3.400492,6.6019,5.1
+71785962,A,Pinto,Normal,Masculino,Casa e estilo de vida,86.22,2,8.622,181.062,2024-01-21,21:17,Dinheiro,144.85,5.174303,9.3687,7.8
+251595208,A,Peixoto do Amparo,Membro,Feminino,Esportes e viagens,34.76,8,13.904,291.984,2024-01-06,04:19,Ewallet,233.59,5.481218,16.0043,4.9
+350501724,B,Jesus da Serra,Membro,Masculino,Eletrônicos,28.33,7,9.9155,208.2255,2024-01-12,06:00,Dinheiro,166.58,5.707206,11.8839,8.9
+289632909,B,da Paz,Membro,Feminino,Casa e estilo de vida,23.39,8,9.356,196.476,2024-01-09,16:39,Ewallet,157.18,6.550338,12.8698,5.6
+252685451,B,Sales,Normal,Masculino,Alimentos e bebidas,40.99,9,18.4455,387.3555,2024-02-02,12:09,Dinheiro,309.88,7.211701,27.9349,5.7
+110614671,C,da Cunha Verde,Membro,Masculino,Eletrônicos,67.68,10,33.84,710.64,2024-01-22,04:58,Ewallet,568.51,3.395042,24.1265,6.8
+136127227,C,Moreira,Membro,Feminino,Eletrônicos,31.68,1,1.584,33.264,2024-01-01,15:49,Ewallet,26.61,4.139431,1.3769,6.9
+590445608,B,Oliveira Alegre,Membro,Masculino,Alimentos e bebidas,33.52,1,1.676,35.196,2024-01-05,13:00,Ewallet,28.16,5.156159,1.8148,4.6
+189468500,C,Vieira,Membro,Feminino,Eletrônicos,15.92,10,7.96,167.16,2024-01-17,19:36,Cartão de crédito,133.73,6.78362,11.3395,4.3
+564762253,B,Gonçalves,Normal,Masculino,Eletrônicos,71.93,9,32.3685,679.7385,2024-02-01,21:07,Ewallet,543.79,3.19041,21.6864,7.3
+513824275,A,Gomes,Normal,Feminino,Eletrônicos,61.19,4,12.238,256.998,2024-02-07,07:03,Dinheiro,205.6,5.610172,14.418,6.6
+948183845,A,Alves do Campo,Normal,Masculino,Eletrônicos,74.55,10,37.275,782.775,2024-01-15,01:35,Ewallet,626.22,7.240656,56.678,6.2
+554937763,C,Gonçalves,Membro,Feminino,Casa e estilo de vida,75.52,10,37.76,792.96,2024-02-05,18:48,Dinheiro,634.37,5.565574,44.1328,6.2
+73074096,C,Teixeira,Membro,Masculino,Eletrônicos,49.25,6,14.775,310.275,2024-01-17,03:34,Cartão de crédito,248.22,4.075416,12.645,4.4
+261341390,A,Ribeiro de Minas,Membro,Feminino,Saúde e beleza,64.06,5,16.015,336.315,2024-01-10,03:29,Ewallet,269.05,7.637959,25.6876,7.7
+978661564,B,da Cunha,Membro,Masculino,Esportes e viagens,57.86,7,20.251,425.271,2024-01-28,06:15,Cartão de crédito,340.22,6.929205,29.4679,4.0
+322722221,B,da Conceição,Membro,Feminino,Casa e estilo de vida,68.16,10,34.08,715.68,2024-02-01,18:24,Cartão de crédito,572.54,3.072061,21.9861,5.7
+612207211,A,Cavalcanti da Serra,Normal,Masculino,Casa e estilo de vida,26.03,6,7.809,163.989,2024-01-06,18:16,Ewallet,131.19,7.401717,12.138,6.8
+505693402,A,Caldeira de da Conceição,Normal,Feminino,Saúde e beleza,54.9,10,27.45,576.45,2024-01-22,22:36,Ewallet,461.16,7.366827,42.4661,4.5
+822328116,B,Lima de Goiás,Normal,Feminino,Saúde e beleza,16.62,10,8.31,174.51,2024-01-28,10:54,Cartão de crédito,139.61,7.334746,12.7999,8.4
+575658593,C,Duarte,Normal,Masculino,Eletrônicos,68.74,4,13.748,288.708,2024-01-19,04:49,Dinheiro,230.97,3.469762,10.0175,7.6
+626471127,B,Rezende,Membro,Masculino,Esportes e viagens,95.28,1,4.764,100.044,2024-01-16,23:49,Cartão de crédito,80.04,3.46481,3.4663,4.9
+58539905,C,da Mota de Rocha,Membro,Feminino,Esportes e viagens,36.07,2,3.607,75.747,2024-01-18,15:57,Dinheiro,60.6,5.530033,4.1888,8.4
+404519173,B,da Rocha,Membro,Masculino,Esportes e viagens,72.72,3,10.908,229.068,2024-01-02,22:31,Cartão de crédito,183.25,4.323987,9.9049,5.7
+366909455,C,Vieira Verde,Membro,Feminino,Esportes e viagens,99.86,9,44.937,943.677,2024-01-20,09:43,Dinheiro,754.94,7.535284,71.1087,4.2
+485531661,C,Dias do Campo,Normal,Masculino,Casa e estilo de vida,71.68,5,17.92,376.32,2024-02-03,21:36,Ewallet,301.06,6.224244,23.4231,6.6
+811384184,C,Dias do Campo,Membro,Feminino,Alimentos e bebidas,25.83,1,1.2915,27.1215,2024-02-04,13:27,Dinheiro,21.7,4.770857,1.2939,5.9
+104662662,C,Nogueira,Membro,Masculino,Saúde e beleza,84.05,3,12.6075,264.7575,2024-01-14,14:13,Dinheiro,211.81,6.504832,17.222,7.5
+507045080,B,Moraes de Azevedo,Membro,Feminino,Esportes e viagens,59.02,2,5.902,123.942,2024-01-15,05:45,Dinheiro,99.15,4.315333,5.3485,8.6
+581943837,C,Santos de Mendes,Normal,Feminino,Eletrônicos,42.67,10,21.335,448.035,2024-01-16,12:22,Ewallet,358.43,3.60227,16.1394,6.8
+367027867,B,Lima,Normal,Masculino,Esportes e viagens,71.09,4,14.218,298.578,2024-01-15,15:38,Dinheiro,238.86,5.81606,17.3655,6.7
+468974103,A,Duarte de Duarte,Normal,Feminino,Casa e estilo de vida,63.06,7,22.071,463.491,2024-01-19,15:28,Ewallet,370.79,5.391191,24.9877,5.3
+609491045,C,da Mata do Norte,Normal,Masculino,Alimentos e bebidas,62.02,9,27.909,586.089,2024-01-17,15:29,Ewallet,468.87,4.429991,25.9637,5.4
+966022824,C,Cardoso da Praia,Membro,Masculino,Eletrônicos,68.41,10,34.205,718.305,2024-01-22,04:23,Dinheiro,574.64,3.683042,26.4555,5.3
+812739549,B,Gonçalves de Moreira,Membro,Feminino,Saúde e beleza,33.73,8,13.492,283.332,2024-01-17,22:45,Ewallet,226.67,6.578768,18.6398,4.3
+335653751,A,Novaes da Praia,Membro,Feminino,Alimentos e bebidas,98.0,7,34.3,720.3,2024-02-01,13:08,Cartão de crédito,576.24,7.762389,55.9125,6.2
+56788493,A,Teixeira Alegre,Normal,Masculino,Esportes e viagens,83.27,10,41.635,874.335,2024-02-10,18:04,Ewallet,699.47,7.741046,67.6827,7.4
+466716355,A,Viana de Martins,Membro,Masculino,Esportes e viagens,90.4,7,31.64,664.44,2024-02-03,15:37,Ewallet,531.55,3.563978,23.6805,5.1
+923173938,B,Araújo da Prata,Normal,Feminino,Saúde e beleza,23.53,4,4.706,98.826,2024-01-21,07:04,Ewallet,79.06,3.350009,3.3107,5.5
+221174060,A,Farias,Normal,Masculino,Eletrônicos,22.12,7,7.742,162.582,2024-01-01,01:50,Cartão de crédito,130.07,6.062133,9.8559,8.9
+678967787,C,Lima,Normal,Masculino,Eletrônicos,15.39,6,4.617,96.957,2024-01-23,15:01,Ewallet,77.57,6.383729,6.1895,6.5
+354277133,C,Lopes,Normal,Masculino,Esportes e viagens,29.3,2,2.93,61.53,2024-01-26,21:07,Cartão de crédito,49.22,4.179924,2.5719,7.2
+156528499,A,Cardoso Verde,Normal,Masculino,Eletrônicos,52.76,7,18.466,387.786,2024-01-24,03:36,Cartão de crédito,310.23,3.408927,13.2193,8.5
+260011371,B,Farias,Normal,Masculino,Casa e estilo de vida,63.41,9,28.5345,599.2245,2024-01-02,21:05,Cartão de crédito,479.38,4.563215,27.3439,5.0
+127529120,B,Caldeira da Prata,Membro,Masculino,Eletrônicos,89.94,4,17.988,377.748,2024-01-01,11:55,Ewallet,302.2,3.289076,12.4244,5.7
+923790373,B,Oliveira da Prata,Membro,Feminino,Saúde e beleza,13.87,9,6.2415,131.0715,2024-02-08,19:06,Dinheiro,104.86,6.988574,9.16,7.3
+785713264,C,da Mota,Membro,Masculino,Alimentos e bebidas,25.96,8,10.384,218.064,2024-01-29,19:56,Cartão de crédito,174.45,3.003653,6.5499,5.0
+286978548,B,da Rocha,Membro,Feminino,Saúde e beleza,78.81,8,31.524,662.004,2024-01-30,18:44,Ewallet,529.6,6.418296,42.4894,8.2
+892700332,B,Gonçalves de Oliveira,Normal,Feminino,Eletrônicos,49.84,5,12.46,261.66,2024-02-09,06:10,Dinheiro,209.33,4.518104,11.8221,8.2
+367776887,B,Melo,Normal,Masculino,Saúde e beleza,30.96,1,1.548,32.508,2024-01-22,04:20,Ewallet,26.01,7.243663,2.3548,6.5
+975862912,A,Novaes,Membro,Masculino,Saúde e beleza,29.49,8,11.796,247.716,2024-01-18,10:36,Ewallet,198.17,5.028426,12.4562,8.9
+412379177,B,da Conceição do Oeste,Normal,Masculino,Saúde e beleza,18.1,2,1.81,38.01,2024-02-10,07:27,Dinheiro,30.41,5.426931,2.0628,4.9
+113263372,A,das Neves,Normal,Feminino,Esportes e viagens,30.42,7,10.647,223.587,2024-01-03,14:42,Cartão de crédito,178.87,7.174731,16.0418,7.5
+279127799,C,da Rocha,Normal,Feminino,Esportes e viagens,11.75,1,0.5875,12.3375,2024-02-03,05:06,Ewallet,9.87,5.128249,0.6327,7.4
+394663402,A,Mendes,Normal,Feminino,Casa e estilo de vida,72.2,1,3.61,75.81,2024-01-19,16:46,Ewallet,60.65,3.938037,2.9854,5.4
+586669289,C,Ramos do Galho,Membro,Masculino,Saúde e beleza,17.37,6,5.211,109.431,2024-01-17,10:53,Ewallet,87.54,3.247671,3.554,8.9
+194137716,B,Ribeiro,Membro,Masculino,Esportes e viagens,38.07,6,11.421,239.841,2024-01-29,00:13,Dinheiro,191.87,6.508045,15.609,8.8
+716886863,B,Castro Grande,Normal,Feminino,Esportes e viagens,91.98,7,32.193,676.053,2024-02-09,22:11,Cartão de crédito,540.84,5.132144,34.696,8.2
+276614481,C,Pinto,Membro,Masculino,Saúde e beleza,57.69,10,28.845,605.745,2024-01-14,12:13,Cartão de crédito,484.6,3.387458,20.5194,5.0
+566843521,C,Rocha dos Dourados,Membro,Feminino,Eletrônicos,25.22,2,2.522,52.962,2024-01-15,20:44,Cartão de crédito,42.37,4.099023,2.1709,7.1
+264658236,C,Gonçalves Paulista,Normal,Masculino,Alimentos e bebidas,78.89,1,3.9445,82.8345,2024-01-16,23:19,Dinheiro,66.27,5.813748,4.8158,4.7
+447074215,B,Nunes da Mata,Membro,Masculino,Saúde e beleza,90.79,8,36.316,762.636,2024-02-07,05:40,Cartão de crédito,610.11,3.983157,30.377,6.1
+578129505,A,Santos de Martins,Membro,Feminino,Esportes e viagens,94.47,9,42.5115,892.7415,2024-01-16,09:47,Ewallet,714.19,6.841496,61.0769,4.4
+743314214,C,Pereira,Membro,Feminino,Casa e estilo de vida,58.82,1,2.941,61.761,2024-01-18,13:31,Dinheiro,49.41,4.812736,2.9724,7.6
+525228143,C,Monteiro do Norte,Normal,Masculino,Esportes e viagens,91.18,6,27.354,574.434,2024-01-06,16:19,Cartão de crédito,459.55,3.518993,20.2143,8.6
+384420520,A,Cardoso das Pedras,Normal,Masculino,Eletrônicos,45.02,1,2.251,47.271,2024-02-09,09:51,Dinheiro,37.82,6.579586,3.1102,7.6
+818926612,C,Castro do Oeste,Membro,Feminino,Saúde e beleza,79.77,7,27.9195,586.3095,2024-02-10,10:55,Ewallet,469.05,6.517359,38.2119,6.3
+281849772,A,Gomes das Flores,Membro,Feminino,Casa e estilo de vida,53.25,3,7.9875,167.7375,2024-01-09,02:45,Dinheiro,134.19,5.869309,9.845,7.9
+372006073,B,Ribeiro,Normal,Masculino,Saúde e beleza,63.42,6,19.026,399.546,2024-02-01,21:25,Cartão de crédito,319.64,3.407861,13.616,8.0
+39122181,C,Sales dos Dourados,Normal,Masculino,Eletrônicos,89.59,2,8.959,188.139,2024-02-05,05:24,Dinheiro,150.51,3.109298,5.8498,5.5
+971003597,A,Santos do Oeste,Normal,Feminino,Saúde e beleza,21.22,8,8.488,178.248,2024-01-12,09:43,Ewallet,142.6,4.013785,7.1545,7.4
+760831045,C,Lima,Normal,Feminino,Esportes e viagens,44.7,10,22.35,469.35,2024-01-21,22:26,Dinheiro,375.48,6.371965,29.9068,5.3
+210558875,B,Nogueira,Membro,Masculino,Alimentos e bebidas,76.18,4,15.236,319.956,2024-01-20,00:25,Ewallet,255.96,4.712019,15.0764,6.5
+381273252,A,Viana de Minas,Membro,Masculino,Esportes e viagens,19.44,5,4.86,102.06,2024-02-07,10:15,Ewallet,81.65,4.463733,4.5557,6.6
+404872115,A,Barros,Membro,Feminino,Casa e estilo de vida,73.91,10,36.955,776.055,2024-02-06,13:17,Ewallet,620.84,5.297673,41.1129,8.5
+268638219,C,Castro,Normal,Feminino,Alimentos e bebidas,96.15,8,38.46,807.66,2024-02-04,07:19,Cartão de crédito,646.13,3.283795,26.5219,5.4
+992455350,A,Gomes,Membro,Feminino,Alimentos e bebidas,69.83,8,27.932,586.572,2024-01-01,04:01,Dinheiro,469.26,6.538429,38.3526,7.9
+530824712,B,Farias do Sul,Membro,Masculino,Eletrônicos,13.16,1,0.658,13.818,2024-02-10,09:00,Dinheiro,11.05,3.841265,0.5308,5.2
+234933979,C,Almeida das Flores,Normal,Masculino,Casa e estilo de vida,38.21,3,5.7315,120.3615,2024-01-11,20:05,Dinheiro,96.29,6.227614,7.4956,5.2
+729535230,A,Costa do Sul,Normal,Masculino,Alimentos e bebidas,76.43,2,7.643,160.503,2024-01-02,09:10,Cartão de crédito,128.4,6.079902,9.7584,8.2
+17671131,B,Barbosa,Normal,Masculino,Saúde e beleza,84.97,5,21.2425,446.0925,2024-02-10,05:23,Cartão de crédito,356.87,5.266742,23.4945,7.6
+458406728,C,Teixeira da Praia,Membro,Masculino,Esportes e viagens,63.32,9,28.494,598.374,2024-02-02,07:51,Ewallet,478.7,7.453625,44.6006,4.1
+602670692,B,Jesus da Praia,Membro,Feminino,Casa e estilo de vida,35.85,5,8.9625,188.2125,2024-01-23,13:30,Ewallet,150.57,3.885357,7.3127,6.3
+216975527,B,Lopes da Mata,Normal,Masculino,Alimentos e bebidas,15.48,2,1.548,32.508,2024-02-03,00:00,Cartão de crédito,26.01,4.041527,1.3138,7.7
+7159457,A,da Luz,Normal,Masculino,Saúde e beleza,18.67,10,9.335,196.035,2024-02-07,05:43,Dinheiro,156.83,6.097697,11.9536,8.1
+762282739,C,Pinto,Membro,Feminino,Esportes e viagens,86.0,6,25.8,541.8,2024-02-03,13:24,Ewallet,433.44,7.830754,42.427,8.0
+518743750,C,Melo,Membro,Feminino,Saúde e beleza,47.5,5,11.875,249.375,2024-01-14,05:36,Ewallet,199.5,3.808459,9.4973,8.7
+704638964,A,Teixeira,Normal,Feminino,Alimentos e bebidas,58.25,4,11.65,244.65,2024-02-01,22:10,Dinheiro,195.72,4.958167,12.1302,4.6
+635883199,C,Souza,Membro,Feminino,Alimentos e bebidas,61.76,10,30.88,648.48,2024-02-09,15:57,Cartão de crédito,518.78,7.061317,45.7912,8.9
+574529,B,Santos Alegre,Membro,Masculino,Saúde e beleza,17.53,7,6.1355,128.8455,2024-01-23,12:27,Ewallet,103.08,4.430327,5.7083,7.8
+390020383,B,Viana,Membro,Feminino,Esportes e viagens,69.68,10,34.84,731.64,2024-01-14,21:05,Cartão de crédito,585.31,7.6634,56.0685,8.4
+524474595,C,Nunes de Cavalcanti,Normal,Masculino,Casa e estilo de vida,70.71,8,28.284,593.964,2024-01-18,07:20,Ewallet,475.17,4.468307,26.5401,6.2
+862488361,B,Santos do Sul,Membro,Masculino,Eletrônicos,47.12,9,21.204,445.284,2024-01-25,21:32,Dinheiro,356.23,3.135904,13.9637,6.7
+713720179,B,Cavalcanti,Normal,Masculino,Esportes e viagens,13.63,10,6.815,143.115,2024-01-13,10:29,Dinheiro,114.49,4.309043,6.1669,5.0
+206314372,A,da Rocha de Nascimento,Normal,Masculino,Eletrônicos,68.63,2,6.863,144.123,2024-02-07,08:39,Dinheiro,115.3,6.631839,9.558,7.5
+167357779,B,Araújo Grande,Normal,Feminino,Saúde e beleza,23.81,5,5.9525,125.0025,2024-01-11,11:42,Cartão de crédito,100.0,6.663373,8.3294,7.4
+524756789,B,Costa de Azevedo,Membro,Feminino,Saúde e beleza,87.87,8,35.148,738.108,2024-02-10,20:16,Cartão de crédito,590.49,7.019676,51.8128,6.6
+263562232,B,Ribeiro do Amparo,Normal,Feminino,Eletrônicos,14.83,2,1.483,31.143,2024-02-08,23:33,Dinheiro,24.91,4.189839,1.3048,8.6
+996476367,C,Cardoso do Oeste,Normal,Feminino,Eletrônicos,36.37,5,9.0925,190.9425,2024-01-21,23:19,Ewallet,152.75,7.805658,14.9043,9.0
+336905008,B,Moraes,Normal,Feminino,Esportes e viagens,10.89,7,3.8115,80.0415,2024-02-08,04:23,Dinheiro,64.03,4.888035,3.9125,6.2
+252402760,C,Moreira,Membro,Masculino,Casa e estilo de vida,85.29,7,29.8515,626.8815,2024-02-02,21:25,Dinheiro,501.51,3.876402,24.3004,8.0
+101598276,B,Costela,Normal,Masculino,Alimentos e bebidas,64.18,2,6.418,134.778,2024-02-07,14:46,Dinheiro,107.82,3.404291,4.5882,4.1
+158820507,B,Peixoto,Membro,Feminino,Alimentos e bebidas,69.28,1,3.464,72.744,2024-01-03,21:18,Dinheiro,58.2,5.595824,4.0706,8.0
+822263318,B,Santos da Serra,Membro,Feminino,Esportes e viagens,14.6,4,2.92,61.32,2024-02-09,20:50,Cartão de crédito,49.06,7.112619,4.3615,4.2
+527483754,C,Mendes,Normal,Masculino,Alimentos e bebidas,32.24,9,14.508,304.668,2024-01-24,02:57,Ewallet,243.73,3.35989,10.2365,5.2
+50987024,C,Cunha do Oeste,Membro,Feminino,Eletrônicos,76.44,9,34.398,722.358,2024-01-07,03:01,Ewallet,577.89,6.074828,43.882,4.6
+688793460,B,Monteiro,Normal,Masculino,Esportes e viagens,93.39,8,37.356,784.476,2024-01-22,00:41,Ewallet,627.58,7.982307,62.6193,4.9
+505363723,B,Azevedo Alegre,Normal,Feminino,Saúde e beleza,46.72,2,4.672,98.112,2024-01-09,12:54,Dinheiro,78.49,5.636291,5.5299,7.3
+654607558,C,Cunha dos Dourados,Normal,Feminino,Alimentos e bebidas,70.9,10,35.45,744.45,2024-01-12,20:05,Cartão de crédito,595.56,4.798353,35.7213,5.8
+239009815,C,Alves das Flores,Membro,Feminino,Eletrônicos,31.14,4,6.228,130.788,2024-01-29,02:11,Dinheiro,104.63,4.068126,5.3206,7.5
+711337363,C,Freitas,Membro,Masculino,Saúde e beleza,57.5,1,2.875,60.375,2024-02-10,09:14,Dinheiro,48.3,5.61725,3.3914,8.4
+189369414,B,Mendes de Santos,Membro,Masculino,Esportes e viagens,48.03,3,7.2045,151.2945,2024-01-19,14:48,Ewallet,121.04,6.25891,9.4694,8.3
+956797269,B,da Rocha de da Paz,Normal,Masculino,Eletrônicos,72.4,10,36.2,760.2,2024-01-07,15:48,Ewallet,608.16,5.104427,38.8039,8.0
+375345443,B,Pires Paulista,Membro,Feminino,Saúde e beleza,67.99,10,33.995,713.895,2024-01-18,23:26,Ewallet,571.12,7.447918,53.1703,7.3
+211388023,C,da Mota do Sul,Membro,Masculino,Eletrônicos,49.58,9,22.311,468.531,2024-01-01,20:58,Dinheiro,374.82,6.360125,29.7992,8.7
+488561657,C,Farias Paulista,Normal,Masculino,Eletrônicos,21.99,6,6.597,138.537,2024-02-06,06:48,Dinheiro,110.83,7.716038,10.6896,7.6
+143319554,A,Costa Alegre,Normal,Masculino,Eletrônicos,90.43,7,31.6505,664.6605,2024-01-08,13:11,Cartão de crédito,531.73,3.047075,20.2527,5.9
+535955872,B,Moraes do Amparo,Normal,Feminino,Casa e estilo de vida,96.24,10,48.12,1010.52,2024-02-01,08:41,Cartão de crédito,808.42,4.520138,45.6769,7.8
+241559385,A,Carvalho,Normal,Masculino,Saúde e beleza,67.68,4,13.536,284.256,2024-02-10,05:04,Dinheiro,227.4,6.766317,19.2337,5.5
+4295727,B,Viana da Serra,Membro,Masculino,Casa e estilo de vida,42.13,8,16.852,353.892,2024-01-25,22:01,Dinheiro,283.11,3.007767,10.6442,7.1
+881480512,B,da Cunha das Pedras,Normal,Masculino,Saúde e beleza,17.76,5,4.44,93.24,2024-01-27,09:35,Dinheiro,74.59,4.541913,4.2349,6.8
+445368799,B,Nunes,Membro,Feminino,Alimentos e bebidas,31.68,3,4.752,99.792,2024-01-30,02:54,Dinheiro,79.83,7.278814,7.2637,5.3
+853049898,C,das Neves,Normal,Feminino,Esportes e viagens,82.94,5,20.735,435.435,2024-02-03,13:22,Ewallet,348.35,5.318754,23.1597,6.5
+790758854,B,da Cruz,Normal,Feminino,Esportes e viagens,20.13,6,6.039,126.819,2024-01-26,04:09,Ewallet,101.46,4.023467,5.1025,4.2
+19922385,C,Ramos,Membro,Masculino,Alimentos e bebidas,82.59,3,12.3885,260.1585,2024-01-27,23:32,Dinheiro,208.13,4.402884,11.4545,6.3
+137995486,A,Porto,Membro,Feminino,Saúde e beleza,27.19,8,10.876,228.396,2024-01-27,02:32,Ewallet,182.72,5.717165,13.0578,4.5
+856510981,A,Teixeira,Membro,Masculino,Casa e estilo de vida,90.65,8,36.26,761.46,2024-01-11,00:32,Dinheiro,609.17,5.095104,38.7972,5.2
+318389031,B,Mendes,Normal,Masculino,Saúde e beleza,26.6,6,7.98,167.58,2024-01-27,08:12,Dinheiro,134.06,7.786822,13.0492,4.1
+614261627,A,Barbosa,Membro,Feminino,Eletrônicos,26.65,9,11.9925,251.8425,2024-02-10,16:13,Cartão de crédito,201.47,3.002203,7.5608,6.6
+646185720,A,Cardoso,Membro,Masculino,Eletrônicos,26.17,9,11.7765,247.3065,2024-01-12,02:45,Cartão de crédito,197.85,3.975214,9.831,5.3
+28847109,B,Cavalcanti,Membro,Masculino,Esportes e viagens,61.58,2,6.158,129.318,2024-02-02,02:06,Ewallet,103.45,3.243083,4.1939,5.5
+385355385,B,Pereira do Oeste,Membro,Masculino,Casa e estilo de vida,33.72,2,3.372,70.812,2024-01-25,16:12,Ewallet,56.65,4.789396,3.3915,5.1
+371137275,C,Ramos,Membro,Masculino,Casa e estilo de vida,21.89,7,7.6615,160.8915,2024-02-04,18:36,Dinheiro,128.71,5.729133,9.2177,5.7
+739992480,A,Melo,Normal,Masculino,Saúde e beleza,66.17,1,3.3085,69.4785,2024-01-09,11:54,Dinheiro,55.58,4.20159,2.9192,8.5
+23624292,A,Nogueira dos Dourados,Membro,Masculino,Esportes e viagens,13.35,6,4.005,84.105,2024-01-11,12:21,Ewallet,67.28,6.425095,5.4038,5.6
+304488157,A,Ribeiro,Normal,Feminino,Saúde e beleza,30.65,8,12.26,257.46,2024-01-11,16:40,Cartão de crédito,205.97,6.890227,17.7396,7.3
+771496013,C,Campos da Serra,Membro,Feminino,Esportes e viagens,44.66,1,2.233,46.893,2024-01-22,08:12,Cartão de crédito,37.51,6.068603,2.8458,6.9
+170067431,C,Santos da Prata,Membro,Feminino,Esportes e viagens,63.02,3,9.453,198.513,2024-01-24,03:51,Ewallet,158.81,3.203141,6.3587,5.8
+388645618,A,Martins,Normal,Masculino,Alimentos e bebidas,15.76,5,3.94,82.74,2024-01-24,01:27,Cartão de crédito,66.19,3.448179,2.853,6.7
+410386425,A,Alves,Normal,Masculino,Eletrônicos,35.5,9,15.975,335.475,2024-02-06,19:32,Dinheiro,268.38,5.749681,19.2887,7.4
+273669703,B,das Neves,Normal,Masculino,Casa e estilo de vida,25.24,4,5.048,106.008,2024-01-03,11:05,Cartão de crédito,84.81,6.068243,6.4328,6.1
+212885808,B,Freitas,Membro,Masculino,Eletrônicos,99.01,2,9.901,207.921,2024-01-01,05:47,Cartão de crédito,166.34,6.218105,12.9287,7.2
+723129703,C,Monteiro,Membro,Feminino,Casa e estilo de vida,68.76,9,30.942,649.782,2024-02-01,15:46,Dinheiro,519.83,6.914068,44.9264,4.8
+46757985,C,Barbosa da Praia,Membro,Feminino,Alimentos e bebidas,64.12,7,22.442,471.282,2024-01-06,03:52,Cartão de crédito,377.03,5.770591,27.1958,5.4
+399093585,B,Oliveira,Normal,Feminino,Eletrônicos,36.65,9,16.4925,346.3425,2024-01-18,19:21,Ewallet,277.07,6.108163,21.1552,5.4
+338458388,C,Azevedo Alegre,Normal,Masculino,Esportes e viagens,23.23,6,6.969,146.349,2024-02-04,05:17,Ewallet,117.08,7.294994,10.6762,4.6
+613889952,A,Costa,Normal,Masculino,Saúde e beleza,91.54,2,9.154,192.234,2024-01-12,10:56,Dinheiro,153.79,5.194503,9.9856,7.5
+544057933,A,da Mata,Membro,Feminino,Alimentos e bebidas,54.77,3,8.2155,172.5255,2024-01-13,21:14,Ewallet,138.02,7.829654,13.5081,7.8
+566533488,C,Gomes,Normal,Masculino,Casa e estilo de vida,36.79,8,14.716,309.036,2024-01-24,09:16,Dinheiro,247.23,7.619153,23.5459,7.5
+203038098,A,Duarte Verde,Membro,Feminino,Saúde e beleza,82.83,9,37.2735,782.7435,2024-01-22,19:16,Dinheiro,626.19,4.652709,36.4188,7.1
+374543618,B,Rezende,Normal,Feminino,Esportes e viagens,68.27,6,20.481,430.101,2024-02-07,12:38,Dinheiro,344.08,4.592672,19.7531,4.6
+811333948,C,Cunha,Membro,Feminino,Esportes e viagens,55.12,6,16.536,347.256,2024-01-17,19:28,Ewallet,277.8,3.561114,12.3662,8.9
+402467935,B,Rezende da Prata,Membro,Feminino,Casa e estilo de vida,69.78,9,31.401,659.421,2024-01-07,12:51,Cartão de crédito,527.54,6.442552,42.4835,6.4
+594044768,A,Correia,Normal,Feminino,Saúde e beleza,29.32,6,8.796,184.716,2024-01-12,14:52,Cartão de crédito,147.77,5.783385,10.6828,6.7
+210173949,A,Nascimento,Membro,Feminino,Esportes e viagens,78.94,10,39.47,828.87,2024-02-08,22:51,Ewallet,663.1,5.138116,42.5883,5.1
+390352829,B,Lopes,Membro,Masculino,Saúde e beleza,38.31,5,9.5775,201.1275,2024-01-29,20:20,Dinheiro,160.9,5.354024,10.7684,6.8
