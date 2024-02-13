@@ -4,6 +4,7 @@ from faker import Faker
 import random
 from typing import List, Dict, Any, Union
 
+#https://faker.readthedocs.io/en/master/locales/pt_BR.html
 fake = Faker('pt_BR')
 
 def gerar_dados_venda(num_items: int) -> List[Dict[str, Any]]:
